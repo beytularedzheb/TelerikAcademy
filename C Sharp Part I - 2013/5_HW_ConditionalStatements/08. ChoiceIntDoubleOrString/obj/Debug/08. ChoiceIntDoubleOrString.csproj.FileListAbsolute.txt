@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\08. ChoiceIntDoubleOrString\bin\Debug\_08.ChoiceIntDoubleOrString.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\08. ChoiceIntDoubleOrString\bin\Debug\_08.ChoiceIntDoubleOrString.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\08. ChoiceIntDoubleOrString\bin\Debug\_08.ChoiceIntDoubleOrString.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\08. ChoiceIntDoubleOrString\obj\Debug\08. ChoiceIntDoubleOrString.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\08. ChoiceIntDoubleOrString\obj\Debug\_08.ChoiceIntDoubleOrString.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\08. ChoiceIntDoubleOrString\obj\Debug\_08.ChoiceIntDoubleOrString.pdb

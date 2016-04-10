@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\10_FindSequnceOfGivenSum\bin\Debug\10_FindSequnceOfGivenSum.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\10_FindSequnceOfGivenSum\bin\Debug\10_FindSequnceOfGivenSum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\10_FindSequnceOfGivenSum\bin\Debug\10_FindSequnceOfGivenSum.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\10_FindSequnceOfGivenSum\obj\Debug\10_FindSequnceOfGivenSum.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\10_FindSequnceOfGivenSum\obj\Debug\10_FindSequnceOfGivenSum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\10_FindSequnceOfGivenSum\obj\Debug\10_FindSequnceOfGivenSum.pdb

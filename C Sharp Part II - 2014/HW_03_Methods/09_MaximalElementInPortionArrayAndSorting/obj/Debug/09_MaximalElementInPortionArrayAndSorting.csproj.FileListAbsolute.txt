@@ -1,0 +1,12 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\bin\Debug\09_MaximalElementInPortionArrayAndSorting.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\bin\Debug\09_MaximalElementInPortionArrayAndSorting.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\bin\Debug\09_MaximalElementInPortionArrayAndSorting.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\obj\Debug\09_MaximalElementInPortionArrayAndSorting.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\obj\Debug\09_MaximalElementInPortionArrayAndSorting.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\obj\Debug\09_MaximalElementInPortionArrayAndSorting.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\bin\Debug\09_MaximalElementInPortionArrayAndSorting.exe.config
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\obj\Debug\09_MaximalElementInPortionArrayAndSorting.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\obj\Debug\09_MaximalElementInPortionArrayAndSorting.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\bin\Debug\09_MaximalElementInPortionArrayAndSorting.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\obj\Debug\09_MaximalElementInPortionArrayAndSorting.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\09_MaximalElementInPortionArrayAndSorting\obj\Debug\09_MaximalElementInPortionArrayAndSorting.pdb

@@ -1,0 +1,18 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.exe.config
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\13_ReverseAverageLinearEquation\bin\Debug\13_ReverseAverageLinearEquation.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\13_ReverseAverageLinearEquation\obj\Debug\13_ReverseAverageLinearEquation.csprojResolveAssemblyReference.cache

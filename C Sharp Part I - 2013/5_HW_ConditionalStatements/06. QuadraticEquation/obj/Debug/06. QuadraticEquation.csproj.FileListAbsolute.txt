@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\06. QuadraticEquation\bin\Debug\_06.QuadraticEquation.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\06. QuadraticEquation\obj\Debug\_06.QuadraticEquation.pdb

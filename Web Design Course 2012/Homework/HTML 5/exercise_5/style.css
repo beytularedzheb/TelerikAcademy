@@ -1,0 +1,45 @@
+#all
+{
+	width: 1010px;
+	height: 720px;
+	border: none;
+}
+#leftside
+{
+	border: 1px solid black;
+	width: 248px;
+	height: 718px;
+	float: left;
+}
+#rightside
+{
+	border: 1px solid black;
+	width: 758px;
+	height: 718px;
+	margin-left: 249px;
+	padding-left: 15px;
+}
+h1, #leftside p
+{
+	text-align: center;
+}
+#rightside p, #leftside p span
+{
+	font-weight: bold;
+}
+ol
+{
+	list-style-type: none;
+	text-indent: -25px;
+}
+#leftside > img
+{
+	width: 220px;
+	height: 305px;
+	padding: 15px 14px;
+}
+#leftside div
+{
+	padding: 20px 25px;
+	
+}

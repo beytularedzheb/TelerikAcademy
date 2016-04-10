@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\03_InsertLineNumbersInFront\bin\Debug\03_InsertLineNumbersInFront.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\03_InsertLineNumbersInFront\bin\Debug\03_InsertLineNumbersInFront.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\03_InsertLineNumbersInFront\bin\Debug\03_InsertLineNumbersInFront.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\03_InsertLineNumbersInFront\obj\Debug\03_InsertLineNumbersInFront.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\03_InsertLineNumbersInFront\obj\Debug\03_InsertLineNumbersInFront.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\03_InsertLineNumbersInFront\obj\Debug\03_InsertLineNumbersInFront.pdb

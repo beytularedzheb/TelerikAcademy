@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13. ExchangeBits\bin\Debug\_13.ExchangeBits.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13. ExchangeBits\bin\Debug\_13.ExchangeBits.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13. ExchangeBits\bin\Debug\_13.ExchangeBits.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13. ExchangeBits\obj\Debug\13. ExchangeBits.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13. ExchangeBits\obj\Debug\_13.ExchangeBits.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13. ExchangeBits\obj\Debug\_13.ExchangeBits.pdb

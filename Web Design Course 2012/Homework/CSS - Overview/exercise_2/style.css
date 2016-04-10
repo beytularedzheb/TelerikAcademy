@@ -1,0 +1,31 @@
+/*CSS Document*/
+body{ 	font-family: Arial;}
+body>div{
+	width: 625px;
+	height: 125px;
+	border: 5px solid #b0ff0d;
+	border-radius: 5px;
+}
+td,tr,th {padding: 3px 3px 3px 3px;}
+tr, td {	border: 1px solid #babbba;}
+td{		width: 150px;}
+table{	border-collapse: collapse;
+		width: 625px;
+		height: 125px;
+}
+#first td{
+		background-image: url("bg_th.png");
+		background-repeat: x-repeat;
+		background-position: top left;
+		color: white;
+}
+.g{		background-color: #ececd8; color: black;}
+.w{		background-color: white; color: black;}
+div{			
+		width: 22px; height: 16px;
+		float: left;
+		background-repeat: no-repeat;
+}
+#first+.w div{background-image: url("germany.gif");}
+#first+.w +.g div, #first+.w +.g+.w div {background-image: url("mexico.gif");}
+#first+.w +.g+.w +.g div{background-image: url("UK.gif");}

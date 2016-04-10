@@ -1,0 +1,18 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.csprojResolveAssemblyReference.cache
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.exe.config
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\bin\Debug\07_ReverseDigitsOfDecimalNumber.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\07_ReverseDigitsOfDecimalNumber\obj\Debug\07_ReverseDigitsOfDecimalNumber.csprojResolveAssemblyReference.cache

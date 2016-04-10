@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>Exrecise_2</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+		var vP = "";
+		if ($.browser.webkit) {
+			vP = "-webkit-";
+		} else if ($.browser.msie) {
+			vP = "-ms-";
+		} else if ($.browser.mozilla) {
+			vP = "-moz-";
+		} else if ($.browser.opera) {
+			vP = "-o-";
+		}
+		
+		$('#td3controls #td3xrot').change(function () {
+				$('#cube').css(vP+"transform","rotateX("+$('#td3controls input#td3xrot').val()+"deg)");
+				$('label[for="td3xrot"]').html("X rotation ("+$('#td3controls input#td3xrot').val()+" deg)")
+		});
+		$('#td3controls #td3yrot').change(function () {
+				$('#Ycube').css(vP+"transform","rotateY("+$('#td3controls input#td3yrot').val()+"deg)");
+				$('label[for="td3yrot"]').html("Y rotation ("+$('#td3controls input#td3yrot').val()+" deg)")			
+		});
+		$('#td3controls #td3zrot').change(function () {
+				$('#Zcube').css(vP+"transform","rotateZ("+$('#td3controls input#td3zrot').val()+"deg)");
+				$('label[for="td3zrot"]').html("Z rotation ("+$('#td3controls input#td3zrot').val()+" deg)")			
+		});	
+		$('#td3controls #td3perspective').change(function () {
+				$('#transDemo3').css(vP+"perspective",$('#td3controls input#td3perspective').val());
+				$('label[for="td3perspective"]').html("Perspective ("+$('#td3controls input#td3perspective').val()+")")			
+		});		
+		});
+	</script>	
+</head>
+<body>	
+	<h2>3D RUBIK</h2> 
+	<div id="transDemo3"> 
+		<div id="Zcube"> 
+		<div id="Ycube"> 
+		<div id="cube"> 
+			<div class="face one"> 
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div> 
+			<div class="face two"> 
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div> 
+			<div class="face three"> 
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div> 
+			<div class="face four"> 
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div> 
+			<div class="face five"> 
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div> 
+			<div class="face six"> 
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+				<div></div>
+			</div> 
+		</div> 
+		</div> 
+		</div> 
+	</div> 
+	<div id="td3controls"> 
+		<label for="td3xrot">X rotation (0 deg)</label> 
+		<input id="td3xrot" type="range" min="-180" max="180" default="0"  /> 
+		<label for="td3yrot">Y rotation (0 deg)</label> 
+		<input id="td3yrot" type="range" min="-180" max="180" default="0"  /> 
+		<label for="td3zrot">Z rotation (0 deg)</label> 
+		<input id="td3zrot" type="range" min="-180" max="180" default="0"  /> 
+		<label for="td3perspective">Perspective (800)</label> 
+		<input id="td3perspective" type="range" min="200" max="2000" default="800"  />	
+	</div> 
+</body>
+</html>

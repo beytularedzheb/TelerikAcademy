@@ -1,0 +1,159 @@
+img{
+	display: block;
+	z-index: 1;
+
+}
+img[alt='flower1']{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 500px;
+	height: 400px;
+	float: left;
+}
+img[alt='flower2']{ 
+	position: absolute;
+	top: 10px;
+	left: 575px;	
+	width: 150px;
+	height: 100px;
+}
+img[alt='flower3']{ 
+	position: absolute;
+	top: 160px;
+	left: 575px;	
+	width: 150px;
+	height: 100px;
+}
+img[alt='flower4']{ 
+	position: absolute;
+	top: 310px;
+	left: 575px;
+	width: 150px;
+	height: 100px;	
+}
+span{
+	display: inline-block;
+	float: left;
+}
+.big_fl .bottom_shadow{
+	position: absolute;
+	top: 410px;
+	left: 10px;	
+	width: 508px;
+	height: 8px;
+}
+.big_fl .bottom_shadow .b_l_sh{
+    margin-left: 3px;
+	width: 6px;
+	height: 8px;
+	background: url('bottom_left_shadow.png') no-repeat;
+	background-size: 7px 8px;
+}
+.big_fl .bottom_shadow .repeat_sh{
+	width: 491px;
+	height: 8px;
+	background: url('bottom_repeat_shadow.png') repeat-x;
+	background-size: 1px 8px;
+}
+.big_fl .bottom_shadow .b_r_sh{
+	width: 8px;
+	height: 8px;
+	background: url('bottom_right_shadow.png') no-repeat;
+	background-size: 8px 8px;
+}
+.big_fl .left_shadow{
+	position: absolute;
+	top: 10px;
+	left: 510px;	
+	width: 8px;
+	height: 400px;
+}
+.big_fl .left_shadow .t_r_sh{
+	width: 8px;
+	height: 6px;
+	margin-top: 3px;
+	background: url('top_right_shadow.png') no-repeat;
+	background-size: 8px 6px;
+}
+.big_fl .left_shadow .repeat_sh{
+	width: 8px;
+	height: 391px;
+	background: url('right_repeat_shadow.png') repeat-y;
+	background-size: 8px 6px;
+}
+.thumb_f .bottom_shadow{
+	position: absolute;
+	top: 110px;
+	left: 575px;	
+	width: 158px;
+	height: 8px;
+}
+.thumb_s .bottom_shadow{
+	position: absolute;
+	top: 260px;
+	left: 575px;	
+	width: 158px;
+	height: 8px;
+}
+.thumb_t .bottom_shadow{
+	position: absolute;
+	top: 410px;
+	left: 575px;	
+	width: 158px;
+	height: 8px;
+}
+.thumbs .bottom_shadow .b_l_sh{
+    margin-left: 3px;
+	width: 6px;
+	height: 8px;
+	background: url('bottom_left_shadow.png') no-repeat;
+	background-size: 7px 8px;
+}
+.thumbs .bottom_shadow .repeat_sh{
+	width: 141px;
+	height: 8px;
+	background: url('bottom_repeat_shadow.png') repeat-x;
+	background-size: 1px 8px;
+}
+.thumbs .bottom_shadow .b_r_sh{
+	width: 8px;
+	height: 8px;
+	background: url('bottom_right_shadow.png') no-repeat;
+	background-size: 8px 8px;
+}
+.thumb_f .left_shadow{
+	position: absolute;
+	top: 10px;
+	left: 725px;	
+	width: 8px;
+	height: 100px;
+}
+.thumb_s .left_shadow{
+	position: absolute;
+	top: 160px;
+	left: 725px;	
+	width: 8px;
+	height: 100px;
+}
+.thumb_t .left_shadow{
+	position: absolute;
+	top: 310px;
+	left: 725px;	
+	width: 8px;
+	height: 100px;
+}
+.thumbs .left_shadow .t_r_sh{
+	width: 8px;
+	height: 6px;
+	margin-top: 3px;
+	background: url('top_right_shadow.png') no-repeat;
+	background-size: 8px 6px;
+}
+.thumbs .left_shadow .repeat_sh{
+	width: 8px;
+	height: 92px;
+	background: url('right_repeat_shadow.png') repeat-y;
+	background-size: 8px 1px;
+}
+

@@ -1,0 +1,5 @@
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\9GagNumbers\bin\Debug\_01_9GagNumbers.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\9GagNumbers\bin\Debug\_01_9GagNumbers.exe
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\9GagNumbers\bin\Debug\_01_9GagNumbers.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\9GagNumbers\obj\Debug\_01_9GagNumbers.exe
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\9GagNumbers\obj\Debug\_01_9GagNumbers.pdb

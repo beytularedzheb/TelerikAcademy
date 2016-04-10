@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\10_ConvertStringToUnicode\bin\Debug\10_ConvertStringToUnicode.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\10_ConvertStringToUnicode\bin\Debug\10_ConvertStringToUnicode.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\10_ConvertStringToUnicode\bin\Debug\10_ConvertStringToUnicode.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\10_ConvertStringToUnicode\obj\Debug\10_ConvertStringToUnicode.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\10_ConvertStringToUnicode\obj\Debug\10_ConvertStringToUnicode.pdb

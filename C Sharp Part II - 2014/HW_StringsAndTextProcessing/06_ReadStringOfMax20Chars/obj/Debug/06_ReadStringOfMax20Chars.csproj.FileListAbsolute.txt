@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\06_ReadStringOfMax20Chars\bin\Debug\06_ReadStringOfMax20Chars.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\06_ReadStringOfMax20Chars\bin\Debug\06_ReadStringOfMax20Chars.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\06_ReadStringOfMax20Chars\bin\Debug\06_ReadStringOfMax20Chars.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\06_ReadStringOfMax20Chars\obj\Debug\06_ReadStringOfMax20Chars.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\06_ReadStringOfMax20Chars\obj\Debug\06_ReadStringOfMax20Chars.pdb

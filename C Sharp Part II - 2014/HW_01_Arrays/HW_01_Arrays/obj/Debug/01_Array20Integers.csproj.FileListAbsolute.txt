@@ -1,0 +1,3 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\HW_01_Arrays\bin\Debug\HW_01_Arrays.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\HW_01_Arrays\obj\Debug\HW_01_Arrays.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\HW_01_Arrays\obj\Debug\HW_01_Arrays.pdb

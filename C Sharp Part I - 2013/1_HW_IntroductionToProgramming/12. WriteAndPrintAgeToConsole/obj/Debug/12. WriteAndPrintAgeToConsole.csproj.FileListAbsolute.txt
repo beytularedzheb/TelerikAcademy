@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\12. WriteAndPrintAgeToConsole\bin\Debug\_12.WriteAndPrintAgeToConsole.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\12. WriteAndPrintAgeToConsole\bin\Debug\_12.WriteAndPrintAgeToConsole.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\12. WriteAndPrintAgeToConsole\bin\Debug\_12.WriteAndPrintAgeToConsole.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\12. WriteAndPrintAgeToConsole\obj\Debug\_12.WriteAndPrintAgeToConsole.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\12. WriteAndPrintAgeToConsole\obj\Debug\_12.WriteAndPrintAgeToConsole.pdb

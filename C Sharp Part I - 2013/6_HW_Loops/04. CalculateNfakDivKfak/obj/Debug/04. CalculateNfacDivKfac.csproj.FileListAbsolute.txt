@@ -1,0 +1,6 @@
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\04. CalculateNfakDivKfak\bin\Debug\_04.CalculateNfakDivKfak.exe.config
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\04. CalculateNfakDivKfak\bin\Debug\_04.CalculateNfakDivKfak.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\04. CalculateNfakDivKfak\bin\Debug\_04.CalculateNfakDivKfak.pdb
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\04. CalculateNfakDivKfak\obj\Debug\04. CalculateNfacDivKfac.csprojResolveAssemblyReference.cache
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\04. CalculateNfakDivKfak\obj\Debug\_04.CalculateNfakDivKfak.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\04. CalculateNfakDivKfak\obj\Debug\_04.CalculateNfakDivKfak.pdb

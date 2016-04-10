@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\HW_StringsAndTextProcessing\bin\Debug\HW_StringsAndTextProcessing.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\HW_StringsAndTextProcessing\bin\Debug\HW_StringsAndTextProcessing.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\HW_StringsAndTextProcessing\bin\Debug\HW_StringsAndTextProcessing.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\HW_StringsAndTextProcessing\obj\Debug\02_ReverseString.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\HW_StringsAndTextProcessing\obj\Debug\HW_StringsAndTextProcessing.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\HW_StringsAndTextProcessing\obj\Debug\HW_StringsAndTextProcessing.pdb

@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09.CheckPointIsWithinCircleAndOutRect\bin\Debug\09.CheckPointIsWithinCircleAndOutRect.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09.CheckPointIsWithinCircleAndOutRect\bin\Debug\09.CheckPointIsWithinCircleAndOutRect.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09.CheckPointIsWithinCircleAndOutRect\bin\Debug\09.CheckPointIsWithinCircleAndOutRect.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09.CheckPointIsWithinCircleAndOutRect\obj\Debug\09.CheckPointIsWithinCircleAndOutRect.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09.CheckPointIsWithinCircleAndOutRect\obj\Debug\09.CheckPointIsWithinCircleAndOutRect.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09.CheckPointIsWithinCircleAndOutRect\obj\Debug\09.CheckPointIsWithinCircleAndOutRect.pdb

@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07. IsPrime\bin\Debug\_07.IsPrime.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07. IsPrime\bin\Debug\_07.IsPrime.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07. IsPrime\bin\Debug\_07.IsPrime.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07. IsPrime\obj\Debug\_07.IsPrime.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07. IsPrime\obj\Debug\_07.IsPrime.pdb

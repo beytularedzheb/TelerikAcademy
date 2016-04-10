@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\06. DeclareBoolVarGender\bin\Debug\_06.DeclareBoolVarGender.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\06. DeclareBoolVarGender\bin\Debug\_06.DeclareBoolVarGender.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\06. DeclareBoolVarGender\bin\Debug\_06.DeclareBoolVarGender.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\06. DeclareBoolVarGender\obj\Debug\_06.DeclareBoolVarGender.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\06. DeclareBoolVarGender\obj\Debug\_06.DeclareBoolVarGender.pdb

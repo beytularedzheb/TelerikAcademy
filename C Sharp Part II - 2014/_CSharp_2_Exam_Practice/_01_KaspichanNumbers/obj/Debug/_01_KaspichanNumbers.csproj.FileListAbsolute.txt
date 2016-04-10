@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_01_KaspichanNumbers\bin\Debug\_01_KaspichanNumbers.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_01_KaspichanNumbers\bin\Debug\_01_KaspichanNumbers.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_01_KaspichanNumbers\bin\Debug\_01_KaspichanNumbers.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_01_KaspichanNumbers\obj\Debug\_01_KaspichanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_01_KaspichanNumbers\obj\Debug\_01_KaspichanNumbers.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_01_KaspichanNumbers\obj\Debug\_01_KaspichanNumbers.pdb

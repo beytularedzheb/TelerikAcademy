@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\09_MostFrequentNumber\bin\Debug\09_MostFrequentNumber.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\09_MostFrequentNumber\bin\Debug\09_MostFrequentNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\09_MostFrequentNumber\bin\Debug\09_MostFrequentNumber.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\09_MostFrequentNumber\obj\Debug\09_MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\09_MostFrequentNumber\obj\Debug\09_MostFrequentNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\09_MostFrequentNumber\obj\Debug\09_MostFrequentNumber.pdb

@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\11. ConvertNumberToText\bin\Debug\_11.ConvertNumberToText.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\11. ConvertNumberToText\bin\Debug\_11.ConvertNumberToText.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\11. ConvertNumberToText\bin\Debug\_11.ConvertNumberToText.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\11. ConvertNumberToText\obj\Debug\11. ConvertNumberToText.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\11. ConvertNumberToText\obj\Debug\_11.ConvertNumberToText.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\11. ConvertNumberToText\obj\Debug\_11.ConvertNumberToText.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\07_ReverseTheDigitsOfDecimalNumber.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\07_ReverseTheDigitsOfDecimalNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\07_ReverseTheDigitsOfDecimalNumber.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\07_ReverseTheDigitsOfDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\07_ReverseTheDigitsOfDecimalNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\07_ReverseTheDigitsOfDecimalNumber.pdb

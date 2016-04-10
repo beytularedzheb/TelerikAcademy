@@ -1,0 +1,5 @@
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12. PrintASCIITable\bin\Debug\_12.PrintASCIITable.exe.config
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12. PrintASCIITable\bin\Debug\_12.PrintASCIITable.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12. PrintASCIITable\bin\Debug\_12.PrintASCIITable.pdb
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12. PrintASCIITable\obj\Debug\_12.PrintASCIITable.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12. PrintASCIITable\obj\Debug\_12.PrintASCIITable.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_03_KukataIsDancing\bin\Debug\_03_KukataIsDancing.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_03_KukataIsDancing\bin\Debug\_03_KukataIsDancing.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_03_KukataIsDancing\bin\Debug\_03_KukataIsDancing.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_03_KukataIsDancing\obj\Debug\_03_KukataIsDancing.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_03_KukataIsDancing\obj\Debug\_03_KukataIsDancing.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_03_KukataIsDancing\obj\Debug\_03_KukataIsDancing.pdb

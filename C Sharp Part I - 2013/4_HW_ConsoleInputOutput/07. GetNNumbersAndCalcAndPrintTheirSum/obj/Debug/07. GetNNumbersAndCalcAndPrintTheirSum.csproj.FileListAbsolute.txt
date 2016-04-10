@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\07. GetNNumbersAndCalcAndPrintTheirSum\bin\Debug\_07.GetNNumbersAndCalcAndPrintTheirSum.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\07. GetNNumbersAndCalcAndPrintTheirSum\bin\Debug\_07.GetNNumbersAndCalcAndPrintTheirSum.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\07. GetNNumbersAndCalcAndPrintTheirSum\bin\Debug\_07.GetNNumbersAndCalcAndPrintTheirSum.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\07. GetNNumbersAndCalcAndPrintTheirSum\obj\Debug\_07.GetNNumbersAndCalcAndPrintTheirSum.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\07. GetNNumbersAndCalcAndPrintTheirSum\obj\Debug\_07.GetNNumbersAndCalcAndPrintTheirSum.pdb

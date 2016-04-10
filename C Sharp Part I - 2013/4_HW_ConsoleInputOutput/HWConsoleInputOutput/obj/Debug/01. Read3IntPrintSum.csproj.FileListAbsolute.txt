@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\HWConsoleInputOutput\bin\Debug\HWConsoleInputOutput.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\HWConsoleInputOutput\bin\Debug\HWConsoleInputOutput.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\HWConsoleInputOutput\bin\Debug\HWConsoleInputOutput.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\HWConsoleInputOutput\obj\Debug\01. Read3IntPrintSum.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\HWConsoleInputOutput\obj\Debug\HWConsoleInputOutput.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\HWConsoleInputOutput\obj\Debug\HWConsoleInputOutput.pdb

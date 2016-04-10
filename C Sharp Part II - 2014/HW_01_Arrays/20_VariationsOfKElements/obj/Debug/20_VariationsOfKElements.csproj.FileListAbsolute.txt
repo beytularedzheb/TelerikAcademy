@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\20_VariationsOfKElements\bin\Debug\20_VariationsOfKElements.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\20_VariationsOfKElements\bin\Debug\20_VariationsOfKElements.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\20_VariationsOfKElements\bin\Debug\20_VariationsOfKElements.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\20_VariationsOfKElements\obj\Debug\20_VariationsOfKElements.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\20_VariationsOfKElements\obj\Debug\20_VariationsOfKElements.pdb

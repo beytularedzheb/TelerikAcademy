@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\08. DeclareTwoStrAssUsingTwoDiffWays\bin\Debug\_08.DeclareTwoStrAssUsingTwoDiffWays.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\08. DeclareTwoStrAssUsingTwoDiffWays\bin\Debug\_08.DeclareTwoStrAssUsingTwoDiffWays.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\08. DeclareTwoStrAssUsingTwoDiffWays\bin\Debug\_08.DeclareTwoStrAssUsingTwoDiffWays.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\08. DeclareTwoStrAssUsingTwoDiffWays\obj\Debug\_08.DeclareTwoStrAssUsingTwoDiffWays.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\08. DeclareTwoStrAssUsingTwoDiffWays\obj\Debug\_08.DeclareTwoStrAssUsingTwoDiffWays.pdb

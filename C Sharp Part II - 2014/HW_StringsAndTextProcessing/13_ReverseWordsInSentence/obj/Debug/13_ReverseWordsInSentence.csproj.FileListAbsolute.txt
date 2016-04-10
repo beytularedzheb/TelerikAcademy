@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\13_ReverseWordsInSentence\bin\Debug\13_ReverseWordsInSentence.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\13_ReverseWordsInSentence\bin\Debug\13_ReverseWordsInSentence.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\13_ReverseWordsInSentence\bin\Debug\13_ReverseWordsInSentence.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\13_ReverseWordsInSentence\obj\Debug\13_ReverseWordsInSentence.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\13_ReverseWordsInSentence\obj\Debug\13_ReverseWordsInSentence.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\13_ReverseWordsInSentence\obj\Debug\13_ReverseWordsInSentence.csprojResolveAssemblyReference.cache

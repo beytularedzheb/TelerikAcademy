@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\04_MaxSequenceOfEqualElementsInArr\bin\Debug\04_MaxSequenceOfEqualElementsInArr.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\04_MaxSequenceOfEqualElementsInArr\bin\Debug\04_MaxSequenceOfEqualElementsInArr.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\04_MaxSequenceOfEqualElementsInArr\bin\Debug\04_MaxSequenceOfEqualElementsInArr.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\04_MaxSequenceOfEqualElementsInArr\obj\Debug\04_MaxSequenceOfEqualElementsInArr.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\04_MaxSequenceOfEqualElementsInArr\obj\Debug\04_MaxSequenceOfEqualElementsInArr.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\04_MaxSequenceOfEqualElementsInArr\obj\Debug\04_MaxSequenceOfEqualElementsInArr.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\14. Spiral\bin\Debug\_14.Spiral.exe.config
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\14. Spiral\bin\Debug\_14.Spiral.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\14. Spiral\bin\Debug\_14.Spiral.pdb
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\14. Spiral\obj\Debug\14. Spiral.csprojResolveAssemblyReference.cache
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\14. Spiral\obj\Debug\_14.Spiral.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\14. Spiral\obj\Debug\_14.Spiral.pdb

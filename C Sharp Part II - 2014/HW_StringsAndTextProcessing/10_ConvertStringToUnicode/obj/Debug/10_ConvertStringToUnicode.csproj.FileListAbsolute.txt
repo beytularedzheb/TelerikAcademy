@@ -1,0 +1,1 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\10_ConvertStringToUnicode\bin\Debug\10_ConvertStringToUnicode.exe.config

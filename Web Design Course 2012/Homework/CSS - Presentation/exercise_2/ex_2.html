@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Exercise_2</title>
+</head>
+
+<body>
+	<div id="container">
+		<h1>Web design Video Player</h1>
+    	<table>
+        	<tr>
+            	<td>
+                	<img id="scene" src="scene.png" alt="it_is_image" />
+                </td>
+                <td>
+                	<div class="episode-list">
+                        <ul>
+                            <li>
+                                <a href="#">Episode I - Phantom Manace</a>
+                            </li>
+                             <li>
+                                <a href="#">Episode II - Attack of the Clones</a>
+                            </li>
+                            <li>
+                                <a href="#">Episode III - Revenge of the Sith</a>
+                            </li>
+                            <li>
+                                <a href="#">Episode IV - New Hope</a>
+                            </li>
+                            <li>
+                                <a href="#">Episode V - The Empire strickes back</a>
+                            </li>
+                            <li>
+                                <a href="#">Episode VI - Return of the Jedi</a>
+                            </li>
+                        </ul>
+                    </div>
+                </td>
+            </tr>
+            <tr>
+            	<td>
+                	Playback
+                    <input id="time-range" type="range" min="0" max="5400" step="1" value="2700" />         
+                </td>
+                <td>
+                	01:23:35 / 01:29:47
+                </td>
+            </tr>
+            <tr>
+            	<td>
+                	<ul class="buttons">
+                    	<li>
+                        	<input type="button" value="Previous" />
+                        </li>
+                        <li>
+                        	<input type="button" value="Play" />
+                        </li>
+                        <li>
+                        	<input type="button" value="Pause" />
+                        </li>
+                        <li>
+                        	<input type="button" value="Stop" />
+                        </li>
+                        <li>
+                        	<input type="button" value="Next" />
+                        </li>
+                    </ul>
+                </td>
+                <td>
+                	Volume: <input type="range" min="0" max="100" step="1" value="73" /> 73%
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

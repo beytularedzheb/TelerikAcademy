@@ -1,0 +1,9 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\bin\Debug\03_LastDigitOfIntAsAnEnglishWord.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\bin\Debug\03_LastDigitOfIntAsAnEnglishWord.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\bin\Debug\03_LastDigitOfIntAsAnEnglishWord.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\obj\Debug\03_LastDigitOfIntAsAnEnglishWord.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\obj\Debug\03_LastDigitOfIntAsAnEnglishWord.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\obj\Debug\03_LastDigitOfIntAsAnEnglishWord.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\bin\Debug\03_LastDigitOfIntAsAnEnglishWord.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\obj\Debug\03_LastDigitOfIntAsAnEnglishWord.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\03_LastDigitOfIntAsAnEnglishWord\obj\Debug\03_LastDigitOfIntAsAnEnglishWord.pdb

@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\10. MarketingFirmEmployees\bin\Debug\_10.MarketingFirmEmployees.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\10. MarketingFirmEmployees\bin\Debug\_10.MarketingFirmEmployees.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\10. MarketingFirmEmployees\bin\Debug\_10.MarketingFirmEmployees.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\10. MarketingFirmEmployees\obj\Debug\_10.MarketingFirmEmployees.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\10. MarketingFirmEmployees\obj\Debug\_10.MarketingFirmEmployees.pdb
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\10. MarketingFirmEmployees\obj\Debug\10. MarketingFirmEmployees.csprojResolveAssemblyReference.cache

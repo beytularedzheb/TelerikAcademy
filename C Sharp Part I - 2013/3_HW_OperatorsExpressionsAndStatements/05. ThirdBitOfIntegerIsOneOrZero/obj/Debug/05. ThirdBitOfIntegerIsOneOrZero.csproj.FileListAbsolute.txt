@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05. ThirdBitOfIntegerIsOneOrZero\bin\Debug\_05.ThirdBitOfIntegerIsOneOrZero.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05. ThirdBitOfIntegerIsOneOrZero\bin\Debug\_05.ThirdBitOfIntegerIsOneOrZero.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05. ThirdBitOfIntegerIsOneOrZero\bin\Debug\_05.ThirdBitOfIntegerIsOneOrZero.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05. ThirdBitOfIntegerIsOneOrZero\obj\Debug\_05.ThirdBitOfIntegerIsOneOrZero.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05. ThirdBitOfIntegerIsOneOrZero\obj\Debug\_05.ThirdBitOfIntegerIsOneOrZero.pdb

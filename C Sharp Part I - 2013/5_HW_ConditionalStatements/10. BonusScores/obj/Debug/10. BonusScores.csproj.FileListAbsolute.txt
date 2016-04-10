@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\10. BonusScores\bin\Debug\_10.BonusScores.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\10. BonusScores\bin\Debug\_10.BonusScores.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\10. BonusScores\bin\Debug\_10.BonusScores.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\10. BonusScores\obj\Debug\10. BonusScores.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\10. BonusScores\obj\Debug\_10.BonusScores.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\10. BonusScores\obj\Debug\_10.BonusScores.pdb

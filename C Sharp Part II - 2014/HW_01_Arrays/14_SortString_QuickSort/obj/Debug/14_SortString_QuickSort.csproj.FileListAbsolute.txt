@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\14_SortString_QuickSort\bin\Debug\14_SortString_QuickSort.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\14_SortString_QuickSort\bin\Debug\14_SortString_QuickSort.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\14_SortString_QuickSort\bin\Debug\14_SortString_QuickSort.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\14_SortString_QuickSort\obj\Debug\14_SortString_QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\14_SortString_QuickSort\obj\Debug\14_SortString_QuickSort.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\14_SortString_QuickSort\obj\Debug\14_SortString_QuickSort.pdb

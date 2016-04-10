@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\02. ReadRadiusPrintPerimeterAndAreaOfCircle\bin\Debug\_02.ReadRadiusPrintPerimeterAndAreaOfCircle.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\02. ReadRadiusPrintPerimeterAndAreaOfCircle\bin\Debug\_02.ReadRadiusPrintPerimeterAndAreaOfCircle.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\02. ReadRadiusPrintPerimeterAndAreaOfCircle\bin\Debug\_02.ReadRadiusPrintPerimeterAndAreaOfCircle.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\02. ReadRadiusPrintPerimeterAndAreaOfCircle\obj\Debug\_02.ReadRadiusPrintPerimeterAndAreaOfCircle.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\02. ReadRadiusPrintPerimeterAndAreaOfCircle\obj\Debug\_02.ReadRadiusPrintPerimeterAndAreaOfCircle.pdb

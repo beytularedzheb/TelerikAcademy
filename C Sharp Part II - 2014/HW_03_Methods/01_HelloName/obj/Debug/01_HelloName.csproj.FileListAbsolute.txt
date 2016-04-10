@@ -1,0 +1,12 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\01_HelloName\bin\Debug\01_HelloName.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\01_HelloName\bin\Debug\01_HelloName.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\01_HelloName\bin\Debug\01_HelloName.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\01_HelloName\obj\Debug\01_HelloName.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\01_HelloName\obj\Debug\01_HelloName.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_03_Methods\01_HelloName\obj\Debug\01_HelloName.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\01_HelloName\bin\Debug\01_HelloName.exe.config
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\01_HelloName\obj\Debug\01_HelloName.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\01_HelloName\obj\Debug\01_HelloName.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\01_HelloName\bin\Debug\01_HelloName.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\01_HelloName\obj\Debug\01_HelloName.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\01_HelloName\obj\Debug\01_HelloName.pdb

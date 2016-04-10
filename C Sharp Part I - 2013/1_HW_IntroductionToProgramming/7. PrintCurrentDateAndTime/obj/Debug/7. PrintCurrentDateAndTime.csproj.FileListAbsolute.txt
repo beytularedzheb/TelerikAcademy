@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\7. PrintCurrentDateAndTime\bin\Debug\_7.PrintCurrentDateAndTime.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\7. PrintCurrentDateAndTime\bin\Debug\_7.PrintCurrentDateAndTime.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\7. PrintCurrentDateAndTime\bin\Debug\_7.PrintCurrentDateAndTime.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\7. PrintCurrentDateAndTime\obj\Debug\_7.PrintCurrentDateAndTime.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\7. PrintCurrentDateAndTime\obj\Debug\_7.PrintCurrentDateAndTime.pdb

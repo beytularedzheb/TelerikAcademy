@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title>Exercise_3</title>
+		<style type="text/css">
+				table, th, td, tr{border: thin solid #afb1b3;}
+				table{border-collapse: collapse;}
+				th, td{padding: 2px 2px;}
+				th{text-align: right; width: 155px;}
+				#state{text-align: center; width: 48px;}
+				#buttons{text-align: center; background-color: #d1ede1;}
+				input[type="email"]{width:300px;}
+				select[name="country"]{width:200px;}
+				input[name="number"]{width:130px;}
+
+		</style>
+	</head>
+	<body>	
+		<form method="post" action="#">
+			<table>
+				<tr>
+					<th>Last Name</th>
+					<td colspan="3">
+						<input type="text" name="lastname" size="35" placeholder="Nakov" />
+					</td>
+				</tr>
+				<tr>
+					<th>First Name</th>
+					<td colspan="3">
+						<input type="text" name="firstname" size="35" placeholder="Svetlin" />
+					</td>
+				</tr>
+				<tr>
+					<th>Addres</th>
+					<td colspan="3">
+						<textarea cols="25" rows="4" name="addres"
+						placeholder="17 Hristo Botev Str. floor 3, apt. 12"></textarea>
+					</td>
+				</tr>
+				<tr>
+					<th>City</th>
+					<td>
+						<input type="text" name="city" size="25" placeholder="Kaspichan" />
+					</td>
+					<th id="state">State</th>
+					<td>
+						<input type="text" name="state" size="7" />
+					</td>
+				</tr>
+				<tr>
+					<th>Zip/Postal Code</th>
+					<td colspan="3">
+						<input type="text" name="z/pcode" size="4" placeholder="9325" />
+					</td>
+				</tr>
+				<tr>
+					<th>Country</th>
+					<td colspan="3">
+						<select name="country">
+							<option value="BG" selected="selected">Bulgaria</option>
+							<option value="EN">England</option>
+							<option value="USA">USA</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<th>Phone (country code, area code, number)</th>
+					<td colspan="3">
+						(+<input type="tel" name="countrycode" size="3" placeholder="359" /> ) 
+						<input type="tel" name="areacode" size="2" placeholder="88" class="size6" /> -
+						<input type="tel" name="number" size="7" placeholder="8334343" /> 
+					</td>
+				</tr>
+				<tr>
+					<th>E-mail</th>
+					<td colspan="3">
+						<input type="email" name="email" placeholder="nakov@kaspichan.org" pattern="[^ @]*@[^ @].[^ @]" />
+					</td>
+				</tr>
+				<tr>
+					<th>Birth date</th>
+					<td colspan="3">
+						Month <input type="text" name="month" size="2" placeholder="06" /> 
+						Day <input type="text" name="day" size="2" placeholder="14" /> 
+						Year (4 digit) <input type="text" name="year" size="4" placeholder="1980" /> 
+					</td>
+				</tr>
+				<tr>
+					<th>Gender</th>
+					<td colspan="3">
+						<select name="gender">
+							<option value="M" selected="selected">Male</option>
+							<option value="F">Female</option>
+							<option value="O">Other</option>
+						</select>
+					</td>
+				</tr>
+				<tr>
+					<th>Starting date</th>
+					<td colspan="3">						
+						<input type="radio" id="spring" name="StD" checked="checked" />
+						<label for="spring">Spring 2006</label>
+						<input type="radio" id="summer" name="StD" />
+						<label for="summer">Summer 2006</label>
+					</td>
+				</tr>
+				<tr>
+					<th>Comment/Questions</th>
+					<td colspan="3">
+						<textarea cols="25" rows="5" name="comment" placeholder="Please send me for information about the lodging."></textarea>
+					</td>
+				</tr>
+				<tr id="buttons">
+					<td colspan="4">
+						<input type="submit" name="submit" value="Submit" />
+						<input type="reset" name="clearform" value="Clear This Form" />
+					</td>
+				</tr>			
+			</table>
+		</form>
+	</body>
+</html>

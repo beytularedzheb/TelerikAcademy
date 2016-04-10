@@ -1,0 +1,9 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\bin\Debug\01_WhetherTheYearIsALeap.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\obj\Debug\01_WhetherTheYearIsALeap.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\obj\Debug\01_WhetherTheYearIsALeap.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\obj\Debug\01_WhetherTheYearIsALeap.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\bin\Debug\01_WhetherTheYearIsALeap.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\bin\Debug\01_WhetherTheYearIsALeap.pdb
+C:\Users\Beytula\Downloads\HW_05_UsingClassesAndObjects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\bin\Debug\01_WhetherTheYearIsALeap.exe.config
+C:\Users\Beytula\Downloads\HW_05_UsingClassesAndObjects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\obj\Debug\01_WhetherTheYearIsALeap.exe
+C:\Users\Beytula\Downloads\HW_05_UsingClassesAndObjects\HW_05_UsingClassesAndObjects\01_WhetherTheYearIsALeap\obj\Debug\01_WhetherTheYearIsALeap.pdb

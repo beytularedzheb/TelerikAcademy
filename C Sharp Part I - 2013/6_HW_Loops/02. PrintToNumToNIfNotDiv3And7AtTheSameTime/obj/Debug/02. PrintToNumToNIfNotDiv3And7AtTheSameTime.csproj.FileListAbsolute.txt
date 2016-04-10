@@ -1,0 +1,5 @@
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\02. PrintToNumToNIfNotDiv3And7AtTheSameTime\bin\Debug\_02.PrintToNumToNIfNotDiv3And7AtTheSameTime.exe.config
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\02. PrintToNumToNIfNotDiv3And7AtTheSameTime\bin\Debug\_02.PrintToNumToNIfNotDiv3And7AtTheSameTime.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\02. PrintToNumToNIfNotDiv3And7AtTheSameTime\bin\Debug\_02.PrintToNumToNIfNotDiv3And7AtTheSameTime.pdb
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\02. PrintToNumToNIfNotDiv3And7AtTheSameTime\obj\Debug\_02.PrintToNumToNIfNotDiv3And7AtTheSameTime.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\02. PrintToNumToNIfNotDiv3And7AtTheSameTime\obj\Debug\_02.PrintToNumToNIfNotDiv3And7AtTheSameTime.pdb

@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\4. PrintNumbers\bin\Debug\_4.PrintNumbers.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\4. PrintNumbers\bin\Debug\_4.PrintNumbers.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\4. PrintNumbers\bin\Debug\_4.PrintNumbers.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\4. PrintNumbers\obj\Debug\_4.PrintNumbers.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\4. PrintNumbers\obj\Debug\_4.PrintNumbers.pdb
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\HomeworkIntroductionToProgramming\4. PrintNumbers\obj\Debug\4. PrintNumbers.csprojResolveAssemblyReference.cache

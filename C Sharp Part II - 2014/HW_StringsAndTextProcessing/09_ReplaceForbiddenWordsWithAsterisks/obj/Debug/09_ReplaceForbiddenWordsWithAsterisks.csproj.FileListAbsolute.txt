@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\09_ReplaceForbiddenWordsWithAsterisks\bin\Debug\09_ReplaceForbiddenWordsWithAsterisks.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\09_ReplaceForbiddenWordsWithAsterisks\bin\Debug\09_ReplaceForbiddenWordsWithAsterisks.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\09_ReplaceForbiddenWordsWithAsterisks\bin\Debug\09_ReplaceForbiddenWordsWithAsterisks.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\09_ReplaceForbiddenWordsWithAsterisks\obj\Debug\09_ReplaceForbiddenWordsWithAsterisks.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\09_ReplaceForbiddenWordsWithAsterisks\obj\Debug\09_ReplaceForbiddenWordsWithAsterisks.pdb

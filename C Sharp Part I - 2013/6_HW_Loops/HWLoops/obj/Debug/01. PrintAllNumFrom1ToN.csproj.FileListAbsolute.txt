@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWLoops\HWLoops\bin\Debug\HWLoops.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWLoops\HWLoops\bin\Debug\HWLoops.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWLoops\HWLoops\bin\Debug\HWLoops.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWLoops\HWLoops\obj\Debug\01. PrintAllNumFrom1ToN.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWLoops\HWLoops\obj\Debug\HWLoops.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWLoops\HWLoops\obj\Debug\HWLoops.pdb

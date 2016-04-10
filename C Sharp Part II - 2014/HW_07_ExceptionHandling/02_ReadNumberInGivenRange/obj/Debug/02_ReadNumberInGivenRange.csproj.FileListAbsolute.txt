@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\02_ReadNumberInGivenRange\bin\Debug\02_ReadNumberInGivenRange.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\02_ReadNumberInGivenRange\bin\Debug\02_ReadNumberInGivenRange.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\02_ReadNumberInGivenRange\bin\Debug\02_ReadNumberInGivenRange.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\02_ReadNumberInGivenRange\obj\Debug\02_ReadNumberInGivenRange.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\02_ReadNumberInGivenRange\obj\Debug\02_ReadNumberInGivenRange.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\02_ReadNumberInGivenRange\obj\Debug\02_ReadNumberInGivenRange.pdb

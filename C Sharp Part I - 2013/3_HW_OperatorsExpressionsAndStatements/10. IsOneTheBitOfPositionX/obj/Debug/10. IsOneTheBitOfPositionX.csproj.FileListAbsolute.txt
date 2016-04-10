@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10. IsOneTheBitOfPositionX\bin\Debug\_10.IsOneTheBitOfPositionX.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10. IsOneTheBitOfPositionX\bin\Debug\_10.IsOneTheBitOfPositionX.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10. IsOneTheBitOfPositionX\bin\Debug\_10.IsOneTheBitOfPositionX.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10. IsOneTheBitOfPositionX\obj\Debug\_10.IsOneTheBitOfPositionX.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10. IsOneTheBitOfPositionX\obj\Debug\_10.IsOneTheBitOfPositionX.pdb

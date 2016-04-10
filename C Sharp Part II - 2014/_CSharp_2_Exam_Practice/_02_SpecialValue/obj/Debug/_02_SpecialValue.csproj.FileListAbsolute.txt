@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_SpecialValue\bin\Debug\_02_SpecialValue.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_SpecialValue\obj\Debug\_02_SpecialValue.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_SpecialValue\bin\Debug\_02_SpecialValue.exe
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_SpecialValue\bin\Debug\_02_SpecialValue.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_SpecialValue\obj\Debug\_02_SpecialValue.exe
+c:\users\beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_SpecialValue\obj\Debug\_02_SpecialValue.pdb

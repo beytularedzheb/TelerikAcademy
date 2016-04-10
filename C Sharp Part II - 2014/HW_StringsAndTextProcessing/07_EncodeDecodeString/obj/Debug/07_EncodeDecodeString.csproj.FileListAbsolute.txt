@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\07_EncodeDecodeString\bin\Debug\07_EncodeDecodeString.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\07_EncodeDecodeString\bin\Debug\07_EncodeDecodeString.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\07_EncodeDecodeString\bin\Debug\07_EncodeDecodeString.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\07_EncodeDecodeString\obj\Debug\07_EncodeDecodeString.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\07_EncodeDecodeString\obj\Debug\07_EncodeDecodeString.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\07_EncodeDecodeString\obj\Debug\07_EncodeDecodeString.pdb

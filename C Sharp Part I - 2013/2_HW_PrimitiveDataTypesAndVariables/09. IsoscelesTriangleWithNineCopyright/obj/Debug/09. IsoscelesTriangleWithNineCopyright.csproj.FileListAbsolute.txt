@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\09. IsoscelesTriangleWithNineCopyright\bin\Debug\_09.IsoscelesTriangleWithNineCopyright.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\09. IsoscelesTriangleWithNineCopyright\bin\Debug\_09.IsoscelesTriangleWithNineCopyright.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\09. IsoscelesTriangleWithNineCopyright\bin\Debug\_09.IsoscelesTriangleWithNineCopyright.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\09. IsoscelesTriangleWithNineCopyright\obj\Debug\_09.IsoscelesTriangleWithNineCopyright.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\09. IsoscelesTriangleWithNineCopyright\obj\Debug\_09.IsoscelesTriangleWithNineCopyright.pdb

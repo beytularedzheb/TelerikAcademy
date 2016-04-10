@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\05. DeclareCharAssSymbInUnicodeCode72\bin\Debug\_05.DeclareCharAssSymbInUnicodeCode72.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\05. DeclareCharAssSymbInUnicodeCode72\bin\Debug\_05.DeclareCharAssSymbInUnicodeCode72.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\05. DeclareCharAssSymbInUnicodeCode72\bin\Debug\_05.DeclareCharAssSymbInUnicodeCode72.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\05. DeclareCharAssSymbInUnicodeCode72\obj\Debug\_05.DeclareCharAssSymbInUnicodeCode72.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\05. DeclareCharAssSymbInUnicodeCode72\obj\Debug\_05.DeclareCharAssSymbInUnicodeCode72.pdb

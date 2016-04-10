@@ -1,0 +1,166 @@
+#transDemo3 {
+	-webkit-perspective: 800;
+	-webkit-perspective-origin: 50% 100px;
+	
+	-moz-perspective: 800;
+	-moz-perspective-origin: 50% 100px;
+	
+	-o-perspective: 800;
+	-o-perspective-origin: 50% 100px;
+	
+	-ms-perspective: 800;
+	-ms-perspective-origin: 50% 100px;	
+	
+	perspective: 800;
+	perspective-origin: 50% 100px;	
+	margin-top: 150px;
+	margin-left: 400px;
+	width: 400px;
+	float: left;
+}
+ 
+#transDemo3 #cube {
+	position: relative;
+	margin: 0 auto;
+	height: 200px;
+	width: 200px;
+	-webkit-transform-style: preserve-3d;
+	-webkit-transform-origin:(50% 100px 0);
+	-moz-transform-style: preserve-3d;
+	-moz-transform-origin:(50% 100px 0);
+	-o-transform-style: preserve-3d;
+	-o-transform-origin:(50% 100px 0);
+	-ms-transform-style: preserve-3d;
+	-ms-transform-origin:(50% 100px 0);
+	transform-style: preserve-3d;
+	transform-origin:(50% 100px 0);
+}
+ 
+#transDemo3 #Ycube,#transDemo3 #Zcube {
+	-webkit-transform-style: preserve-3d;	
+	-moz-transform-style: preserve-3d;	
+	-o-transform-style: preserve-3d;	
+	-ms-transform-style: preserve-3d;	
+	transform-style: preserve-3d;					
+}
+ 
+#transDemo3 .face {
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	/*padding: 20px;*/
+	background-color: rgba(50, 50, 50, 0.3);
+	-webkit-backface-visibility: visible;	
+	-moz-backface-visibility: visible;	
+	-o-backface-visibility: visible;	
+	-ms-backface-visibility: visible;
+	backface-visibility: visible;					
+	border:1px #aaa solid;
+	background-color: black;
+	border-radius: 10px;				
+}
+ 
+ 
+#cube .one  {
+	-webkit-transform: rotateX(90deg) translateZ(100px);
+	-moz-transform: rotateX(90deg) translateZ(100px);
+	-o-transform: rotateX(90deg) translateZ(100px);
+	-ms-transform: rotateX(90deg) translateZ(100px);			
+	transform: rotateX(90deg) translateZ(100px);				
+}
+ 
+#cube .two {
+	-webkit-transform: translateZ(100px);
+	-moz-transform: translateZ(100px);
+	-o-transform: translateZ(100px);
+	-ms-transform: translateZ(100px);
+	transform: translateZ(100px);					
+}
+ 
+#cube .three {
+	-webkit-transform: rotateY(90deg) translateZ(100px);
+	-moz-transform: rotateY(90deg) translateZ(100px);	
+	-o-transform: rotateY(90deg) translateZ(100px);
+	-ms-transform: rotateY(90deg) translateZ(100px);
+	transform: rotateY(90deg) translateZ(100px);			
+}
+ 
+#cube .four {
+	-webkit-transform: rotateY(180deg) translateZ(100px);
+	-moz-transform: rotateY(180deg) translateZ(100px);
+	-o-transform: rotateY(180deg) translateZ(100px);
+	-ms-transform: rotateY(180deg) translateZ(100px);
+	transform: rotateY(180deg) translateZ(100px);				
+}
+ 
+#cube .five {
+	-webkit-transform: rotateY(-90deg) translateZ(100px);
+	-moz-transform: rotateY(-90deg) translateZ(100px);
+	-o-transform: rotateY(-90deg) translateZ(100px);
+	-ms-transform: rotateY(-90deg) translateZ(100px);
+	transform: rotateY(-90deg) translateZ(100px);			
+}
+ 
+#cube .six {
+	-webkit-transform: rotateX(-90deg) translateZ(100px) rotate(180deg);
+	-moz-transform: rotateX(-90deg) translateZ(100px) rotate(180deg);
+	-o-transform: rotateX(-90deg) translateZ(100px) rotate(180deg);
+	-ms-transform: rotateX(-90deg) translateZ(100px) rotate(180deg);
+	transform: rotateX(-90deg) translateZ(100px) rotate(180deg);					
+}
+
+.face div:empty{
+	display: inline;
+	background-color: black; 
+	border: 0;
+	border-radius: 5px;
+	float: left;
+	width: 64px;
+	height: 64px;
+	margin-left: 2px;
+	margin-top: 2px;
+}
+.one div:empty{
+	background-color: red;
+}
+.two div:empty{
+	background-color: blue;
+}
+.three div:empty{
+	background-color: yellow;
+}	
+.four div:empty{
+	background-color: green;
+}	
+.five div:empty{
+	background-color: purple;
+}
+.six div:empty{
+	background-color: orange;
+}
+#td3controls {
+	position: absolute;
+	top: 150px;
+	left: 50px;
+	width: 160px;
+	float: right;
+}
+#td3controls label,#td3controls input  {
+	float: left;
+	width: 150px;
+}
+h2{
+	position: absolute;
+	top: 10px;
+	left: 350px;
+}
+label[for~="td3xrot"]{ 
+	color: green;
+}
+label[for~="td3yrot"]{
+	color: red;
+}
+label[for~="td3zrot"]{
+	color: blue;
+}
+

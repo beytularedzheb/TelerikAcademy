@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Exercise_3</title>
+</head>
+
+<body>
+	<img src="images/win_tools.png" alt="win_tools" />
+	<div id="container">
+		<img src="images/calc_icon.png" alt="calc_icon" />
+		<h4>Calculator</h4>
+		<div id="second-container">
+			<table>
+				<tr>
+					<td class="tools">
+						<a href="#"><span>V</span>iew</a>
+						<a href="#"><span>E</span>dit</a>
+						<a href="#"><span>H</span>elp</a>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<input id="result" type="text" placeholder="8854455" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table class="second-table">
+							<tr class="centered">
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>						
+							</tr>
+							<tr class="tr2i4">
+								<td colspan="4">
+									63
+								</td>
+								<td colspan="3">
+									47
+								</td>
+								<td>
+									32
+								</td>						
+							</tr>
+							<tr class="centered">
+								<td>
+									0000
+								</td>
+								<td>
+									0000
+								</td>
+								<td>
+									1000
+								</td>
+								<td>
+									0111
+								</td>
+								<td>
+									0001
+								</td>
+								<td>
+									1011
+								</td>
+								<td>
+									1011
+								</td>
+								<td>
+									0111
+								</td>						
+							</tr>
+							<tr class="tr2i4">
+								<td colspan="4">
+									31
+								</td>
+								<td colspan="3">
+									15
+								</td>
+								<td>
+									0
+								</td>						
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<fieldset>
+							<label>
+								<input type="radio" name="br_sistema" /> Hex
+							</label>
+							<br />
+							<label>
+								<input type="radio" checked="checked" name="br_sistema" /> Dec
+							</label>
+							<br />						
+							<label>
+								<input type="radio" name="br_sistema" /> Oct
+							</label>
+							<br />
+							<label>
+								<input type="radio" name="br_sistema" /> Bin
+							</label>
+						</fieldset>
+					</td>
+					<td rowspan="2">
+						<table class="third-table">
+							<tr>
+								<td class="unactivated">
+							
+								</td>
+								<td>
+									Mod
+								</td>
+								<td class="unactivated">
+									A
+								</td>
+								<td class="unactivated">
+									MC
+								</td>
+								<td class="unactivated">
+									MR
+								</td>
+								<td class="unactivated">
+									MS
+								</td>
+								<td class="unactivated">
+									M+
+								</td>
+								<td class="unactivated">
+									M-
+								</td>
+							</tr>
+							<tr>
+								<td>
+									(
+								</td>
+								<td>
+									)
+								</td>
+								<td class="unactivated">
+									B
+								</td>
+								<td>
+									&larr;
+								</td>
+								<td>
+									CE
+								</td>
+								<td>
+									C
+								</td>
+								<td>
+									&plusmn;
+								</td>
+								<td class="unactivated">
+									&radic;
+								</td>
+							</tr>
+							<tr>
+								<td>
+									RoL
+								</td>
+								<td>
+									RoR
+								</td>
+								<td class="unactivated">
+									C
+								</td>
+								<td>
+									7
+								</td>
+								<td>
+									8
+								</td>
+								<td>
+									9
+								</td>
+								<td>
+									/
+								</td>
+								<td class="unactivated">
+									%
+								</td>
+							</tr>
+							<tr>
+								<td>
+									Or
+								</td>
+								<td>
+									Xor
+								</td>
+								<td class="unactivated">
+									D
+								</td>
+								<td>
+									4
+								</td>
+								<td>
+									5
+								</td>
+								<td>
+									6
+								</td>
+								<td>
+									*
+								</td>
+								<td class="unactivated">
+									1/x
+								</td>
+							</tr>
+							<tr>
+								<td>
+									Lsh
+								</td>
+								<td>
+									Rsh
+								</td>
+								<td class="unactivated">
+									E
+								</td>
+								<td>
+									1
+								</td>
+								<td>
+									2
+								</td>
+								<td>
+									3
+								</td>
+								<td>
+									-
+								</td>
+								<td rowspan="2">
+									=
+								</td>
+							</tr>
+							<tr>
+								<td>
+									Not
+								</td>
+								<td>
+									And
+								</td>
+								<td class="unactivated">
+									F
+								</td>
+								<td colspan="2">
+									0
+								</td>
+								<td class="unactivated">
+									,
+								</td>
+								<td>
+									+
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<fieldset id="word">
+							<label>
+								<input type="radio" checked="checked"  name="word" /> Qword
+							</label>
+							<br />						
+							<label>
+								<input type="radio" name="word" /> Dword
+							</label>
+							<br />						
+							<label>
+								<input type="radio" name="word" /> Word
+							</label>
+							<br />
+							<label>
+								<input type="radio" name="word" /> Byte
+							</label>
+						</fieldset>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\bin\Debug\PrimitiveDataTypesAndVariables.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\01. DeclareFiveVariables.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\PrimitiveDataTypesAndVariables.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\PrimitiveDataTypesAndVariables\obj\Debug\PrimitiveDataTypesAndVariables.pdb

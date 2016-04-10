@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\12_RemoveAllWordsListedInAnotherTextFile\bin\Debug\12_RemoveAllWordsListedInAnotherTextFile.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\12_RemoveAllWordsListedInAnotherTextFile\bin\Debug\12_RemoveAllWordsListedInAnotherTextFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\12_RemoveAllWordsListedInAnotherTextFile\bin\Debug\12_RemoveAllWordsListedInAnotherTextFile.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\12_RemoveAllWordsListedInAnotherTextFile\obj\Debug\12_RemoveAllWordsListedInAnotherTextFile.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\12_RemoveAllWordsListedInAnotherTextFile\obj\Debug\12_RemoveAllWordsListedInAnotherTextFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\12_RemoveAllWordsListedInAnotherTextFile\obj\Debug\12_RemoveAllWordsListedInAnotherTextFile.pdb

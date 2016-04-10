@@ -1,0 +1,8 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\bin\Debug\08_ShowBinaryRepresentationOfShort.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\bin\Debug\08_ShowBinaryRepresentationOfShort.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\bin\Debug\08_ShowBinaryRepresentationOfShort.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\obj\Debug\08_ShowBinaryRepresentationOfShort.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\obj\Debug\08_ShowBinaryRepresentationOfShort.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\bin\Debug\08_ShowBinaryRepresentationOfShort.exe.config
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\obj\Debug\08_ShowBinaryRepresentationOfShort.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\08_ShowBinaryRepresentationOfShort\obj\Debug\08_ShowBinaryRepresentationOfShort.pdb

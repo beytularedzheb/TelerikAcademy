@@ -1,0 +1,29 @@
+public void DoFizzBuzz()
+{
+   for (int number = 1; number <= 100; number++)
+   {
+       var output = GetFizzBuzzOutput(number);
+       Console.WriteLine(output);
+   }
+}
+
+private static string GetFizzBuzzOutput(int number)
+{
+   string output = string.Empty;
+
+   if (number % 3 == 0)
+   {
+       output = "Fizz";
+   }
+   if (number % 5 == 0)
+   {
+       output += "Buzz";
+   }
+
+   if(string.IsNullOrEmpty(output))
+   {
+       output = number.ToString();
+   }
+
+   return output;
+}

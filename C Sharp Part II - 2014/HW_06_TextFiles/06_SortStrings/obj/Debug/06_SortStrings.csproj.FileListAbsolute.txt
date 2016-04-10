@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\06_SortStrings\bin\Debug\06_SortStrings.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\06_SortStrings\bin\Debug\06_SortStrings.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\06_SortStrings\bin\Debug\06_SortStrings.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\06_SortStrings\obj\Debug\06_SortStrings.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\06_SortStrings\obj\Debug\06_SortStrings.pdb

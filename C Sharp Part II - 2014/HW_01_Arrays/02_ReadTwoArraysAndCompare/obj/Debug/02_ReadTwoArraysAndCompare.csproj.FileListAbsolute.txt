@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\02_ReadTwoArraysAndCompare\bin\Debug\02_ReadTwoArraysAndCompare.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\02_ReadTwoArraysAndCompare\bin\Debug\02_ReadTwoArraysAndCompare.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\02_ReadTwoArraysAndCompare\bin\Debug\02_ReadTwoArraysAndCompare.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\02_ReadTwoArraysAndCompare\obj\Debug\02_ReadTwoArraysAndCompare.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\02_ReadTwoArraysAndCompare\obj\Debug\02_ReadTwoArraysAndCompare.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\02_ReadTwoArraysAndCompare\obj\Debug\02_ReadTwoArraysAndCompare.pdb

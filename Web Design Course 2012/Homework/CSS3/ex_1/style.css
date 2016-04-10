@@ -1,0 +1,38 @@
+body{
+	font-family: Arial;
+	font-weight: bold;
+}
+#example_form h1{
+	color: black;
+	font-size: 28px;
+	margin-left: -10px;
+	padding-top: 5px;
+}
+#example_form{
+	background-color: #e0e0e0;
+	width: 240px;
+	padding-bottom: 1px;
+	padding-left: 15px;
+	box-shadow: 3px 3px 0 #30356e;
+	color: #656565;
+}
+input{
+	display: block;
+	margin-bottom: 20px;
+}
+input[value^="Mark"]{
+	border-radius: 5px;
+	color: #656565;
+	width: 180px;
+	height: 20px;
+}
+input[type="submit"]{
+	background-color: white;;
+	box-shadow: 0px 1px 3px #656565;
+	border: 0;
+	border-radius: 15px;
+	height: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-weight: bold;
+}

@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\23_ReplaceConsecutiveIdenticalLetters\bin\Debug\23_ReplaceConsecutiveIdenticalLetters.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\23_ReplaceConsecutiveIdenticalLetters\bin\Debug\23_ReplaceConsecutiveIdenticalLetters.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\23_ReplaceConsecutiveIdenticalLetters\bin\Debug\23_ReplaceConsecutiveIdenticalLetters.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\23_ReplaceConsecutiveIdenticalLetters\obj\Debug\23_ReplaceConsecutiveIdenticalLetters.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\23_ReplaceConsecutiveIdenticalLetters\obj\Debug\23_ReplaceConsecutiveIdenticalLetters.pdb

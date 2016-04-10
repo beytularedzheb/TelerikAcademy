@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\03. ReadCompanyInfoAndPrint\bin\Debug\_03.ReadCompanyInfoAndPrint.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\03. ReadCompanyInfoAndPrint\obj\Debug\03. ReadCompanyInfoAndPrint.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\03. ReadCompanyInfoAndPrint\bin\Debug\_03.ReadCompanyInfoAndPrint.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\03. ReadCompanyInfoAndPrint\bin\Debug\_03.ReadCompanyInfoAndPrint.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\03. ReadCompanyInfoAndPrint\obj\Debug\_03.ReadCompanyInfoAndPrint.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\03. ReadCompanyInfoAndPrint\obj\Debug\_03.ReadCompanyInfoAndPrint.pdb

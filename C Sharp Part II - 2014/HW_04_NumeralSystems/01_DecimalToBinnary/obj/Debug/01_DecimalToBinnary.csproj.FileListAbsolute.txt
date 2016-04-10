@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.pdb

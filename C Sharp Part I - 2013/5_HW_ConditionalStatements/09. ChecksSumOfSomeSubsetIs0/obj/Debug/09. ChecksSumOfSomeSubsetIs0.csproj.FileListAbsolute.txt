@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\09. ChecksSumOfSomeSubsetIs0\bin\Debug\_09.ChecksSumOfSomeSubsetIs0.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\09. ChecksSumOfSomeSubsetIs0\bin\Debug\_09.ChecksSumOfSomeSubsetIs0.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\09. ChecksSumOfSomeSubsetIs0\bin\Debug\_09.ChecksSumOfSomeSubsetIs0.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\09. ChecksSumOfSomeSubsetIs0\obj\Debug\_09.ChecksSumOfSomeSubsetIs0.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\09. ChecksSumOfSomeSubsetIs0\obj\Debug\_09.ChecksSumOfSomeSubsetIs0.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\09. ChecksSumOfSomeSubsetIs0\obj\Debug\09. ChecksSumOfSomeSubsetIs0.csprojResolveAssemblyReference.cache

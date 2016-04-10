@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\10. CalculateSumWithAccuracyOf_0.001\bin\Debug\_10.CalculateSumWithAccuracyOf_0._001.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\10. CalculateSumWithAccuracyOf_0.001\bin\Debug\_10.CalculateSumWithAccuracyOf_0._001.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\10. CalculateSumWithAccuracyOf_0.001\bin\Debug\_10.CalculateSumWithAccuracyOf_0._001.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\10. CalculateSumWithAccuracyOf_0.001\obj\Debug\10. CalculateSumWithAccuracyOf_0.001.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\10. CalculateSumWithAccuracyOf_0.001\obj\Debug\_10.CalculateSumWithAccuracyOf_0._001.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\10. CalculateSumWithAccuracyOf_0.001\obj\Debug\_10.CalculateSumWithAccuracyOf_0._001.pdb

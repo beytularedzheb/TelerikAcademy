@@ -1,0 +1,23 @@
+#login{
+	width: 225px; height: 115px;
+	border: 5px solid #90cad7;
+	border-radius: 8px;
+	padding: 10px;
+}
+a{
+	color: #78e0fa;
+	font-size: 13px;
+	padding-right: 15px;
+}
+#username, #pass{
+	width: 220px;
+}
+form>span{
+	color: #666;
+}
+span a,#submit{
+	padding-top: 10px;
+}
+#username+div{
+	height: 5px;
+}

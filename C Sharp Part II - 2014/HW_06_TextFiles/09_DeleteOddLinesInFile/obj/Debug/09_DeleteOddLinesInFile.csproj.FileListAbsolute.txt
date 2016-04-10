@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\09_DeleteOddLinesInFile\bin\Debug\09_DeleteOddLinesInFile.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\09_DeleteOddLinesInFile\bin\Debug\09_DeleteOddLinesInFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\09_DeleteOddLinesInFile\bin\Debug\09_DeleteOddLinesInFile.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\09_DeleteOddLinesInFile\obj\Debug\09_DeleteOddLinesInFile.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\09_DeleteOddLinesInFile\obj\Debug\09_DeleteOddLinesInFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\09_DeleteOddLinesInFile\obj\Debug\09_DeleteOddLinesInFile.pdb

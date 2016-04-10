@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\05. GetTwoNumbersAndPrintGreaterOfThem\bin\Debug\_05.GetTwoNumbersAndPrintGreaterOfThem.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\05. GetTwoNumbersAndPrintGreaterOfThem\bin\Debug\_05.GetTwoNumbersAndPrintGreaterOfThem.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\05. GetTwoNumbersAndPrintGreaterOfThem\bin\Debug\_05.GetTwoNumbersAndPrintGreaterOfThem.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\05. GetTwoNumbersAndPrintGreaterOfThem\obj\Debug\05. GetTwoNumbersAndPrintGreaterOfThem.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\05. GetTwoNumbersAndPrintGreaterOfThem\obj\Debug\_05.GetTwoNumbersAndPrintGreaterOfThem.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\05. GetTwoNumbersAndPrintGreaterOfThem\obj\Debug\_05.GetTwoNumbersAndPrintGreaterOfThem.pdb

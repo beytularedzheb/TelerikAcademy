@@ -1,0 +1,8 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\02_BinnaryToDecimal\bin\Debug\02_BinnaryToDecimal.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\02_BinnaryToDecimal\obj\Debug\02_BinnaryToDecimal.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\02_BinnaryToDecimal\obj\Debug\02_BinnaryToDecimal.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\02_BinnaryToDecimal\bin\Debug\02_BinnaryToDecimal.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\02_BinnaryToDecimal\bin\Debug\02_BinnaryToDecimal.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\02_BinnaryToDecimal\bin\Debug\02_BinnaryToDecimal.exe.config
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\02_BinnaryToDecimal\obj\Debug\02_BinnaryToDecimal.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\02_BinnaryToDecimal\obj\Debug\02_BinnaryToDecimal.pdb

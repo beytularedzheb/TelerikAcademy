@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.CheckIntDivWithoutRemainderBy7And5\bin\Debug\02.CheckIntDivWithoutRemainderBy7And5.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.CheckIntDivWithoutRemainderBy7And5\bin\Debug\02.CheckIntDivWithoutRemainderBy7And5.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.CheckIntDivWithoutRemainderBy7And5\bin\Debug\02.CheckIntDivWithoutRemainderBy7And5.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.CheckIntDivWithoutRemainderBy7And5\obj\Debug\02.CheckIntDivWithoutRemainderBy7And5.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02.CheckIntDivWithoutRemainderBy7And5\obj\Debug\02.CheckIntDivWithoutRemainderBy7And5.pdb

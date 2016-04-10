@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11. ExtractTheValueOfBitX\bin\Debug\_11.ExtractTheValueOfBitX.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11. ExtractTheValueOfBitX\bin\Debug\_11.ExtractTheValueOfBitX.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11. ExtractTheValueOfBitX\bin\Debug\_11.ExtractTheValueOfBitX.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11. ExtractTheValueOfBitX\obj\Debug\_11.ExtractTheValueOfBitX.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11. ExtractTheValueOfBitX\obj\Debug\_11.ExtractTheValueOfBitX.pdb

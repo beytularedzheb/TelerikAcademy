@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\18_ExtractEmailAddresses\bin\Debug\18_ExtractEmailAddresses.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\18_ExtractEmailAddresses\bin\Debug\18_ExtractEmailAddresses.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\18_ExtractEmailAddresses\bin\Debug\18_ExtractEmailAddresses.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\18_ExtractEmailAddresses\obj\Debug\18_ExtractEmailAddresses.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\18_ExtractEmailAddresses\obj\Debug\18_ExtractEmailAddresses.pdb

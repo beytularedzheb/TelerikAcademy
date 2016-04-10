@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\05. ShowDigitsName\bin\Debug\_05.ShowDigitsName.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\05. ShowDigitsName\bin\Debug\_05.ShowDigitsName.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\05. ShowDigitsName\bin\Debug\_05.ShowDigitsName.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\05. ShowDigitsName\obj\Debug\_05.ShowDigitsName.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\05. ShowDigitsName\obj\Debug\_05.ShowDigitsName.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\11_BinarySearch\bin\Debug\11_BinarySearch.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\11_BinarySearch\bin\Debug\11_BinarySearch.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\11_BinarySearch\bin\Debug\11_BinarySearch.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\11_BinarySearch\obj\Debug\11_BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\11_BinarySearch\obj\Debug\11_BinarySearch.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\11_BinarySearch\obj\Debug\11_BinarySearch.pdb

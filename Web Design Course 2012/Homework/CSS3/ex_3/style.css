@@ -1,0 +1,62 @@
+@-webkit-keyframes text_s_c {
+
+	0% {
+		font-size: 50px;
+		color: #00ff9c;
+		text-shadow: -2px -2px 5px blue;
+	}
+	25% {
+		color: red;
+	}
+	50% {
+		color: #00ffc0; 
+	}
+	75% {
+		color: #006cff;
+	}
+	100% {
+		font-size: 25px;
+		color: #ae00ff;
+		text-shadow: -2px -2px 10px red;
+	}
+}
+@-moz-keyframes text_s_c {
+
+	0% {
+		font-size: 50px;
+		color: #00ff9c;
+	}
+	25% {
+		color: red;
+	}
+	50% {
+		color: #00ffc0; 
+	}
+	75% {
+		color: #006cff;
+	}
+	100% {
+		font-size: 25px;
+		color: #ae00ff;
+	}
+}
+pre{
+	position: absolute;
+	top: 50px;
+	font-size: 60px;
+	font-weight: bold;
+}
+pre:hover{
+	-webkit-animation-name: text_s_c;
+	-webkit-animation-duration: 1s;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-direction: alternate;
+	-webkit-animation-timing-function: ease-in-out;
+	
+	-moz-animation-name: text_s_c;
+	-moz-animation-duration: 1s;
+	-moz-animation-iteration-count: infinite;
+	-moz-animation-direction: alternate;
+	-moz-animation-timing-function: ease-in-out;
+
+}

@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\07. DeclareTwoStrOneObjThirdStr\bin\Debug\_07.DeclareTwoStrOneObjThirdStr.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\07. DeclareTwoStrOneObjThirdStr\bin\Debug\_07.DeclareTwoStrOneObjThirdStr.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\07. DeclareTwoStrOneObjThirdStr\bin\Debug\_07.DeclareTwoStrOneObjThirdStr.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\07. DeclareTwoStrOneObjThirdStr\obj\Debug\_07.DeclareTwoStrOneObjThirdStr.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\07. DeclareTwoStrOneObjThirdStr\obj\Debug\_07.DeclareTwoStrOneObjThirdStr.pdb

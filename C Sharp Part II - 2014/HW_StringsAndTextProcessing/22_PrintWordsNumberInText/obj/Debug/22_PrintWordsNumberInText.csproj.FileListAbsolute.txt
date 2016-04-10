@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\22_PrintWordsNumberInText\bin\Debug\22_PrintWordsNumberInText.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\22_PrintWordsNumberInText\bin\Debug\22_PrintWordsNumberInText.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\22_PrintWordsNumberInText\bin\Debug\22_PrintWordsNumberInText.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\22_PrintWordsNumberInText\obj\Debug\22_PrintWordsNumberInText.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\22_PrintWordsNumberInText\obj\Debug\22_PrintWordsNumberInText.pdb

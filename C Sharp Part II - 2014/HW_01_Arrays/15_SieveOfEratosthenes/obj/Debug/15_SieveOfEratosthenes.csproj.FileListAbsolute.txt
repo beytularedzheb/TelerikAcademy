@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\15_SieveOfEratosthenes\bin\Debug\15_SieveOfEratosthenes.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\15_SieveOfEratosthenes\bin\Debug\15_SieveOfEratosthenes.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\15_SieveOfEratosthenes\bin\Debug\15_SieveOfEratosthenes.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\15_SieveOfEratosthenes\obj\Debug\15_SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\15_SieveOfEratosthenes\obj\Debug\15_SieveOfEratosthenes.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\15_SieveOfEratosthenes\obj\Debug\15_SieveOfEratosthenes.pdb

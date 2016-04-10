@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\07_Sorting_SelectionSort\bin\Debug\07_Sorting_SelectionSort.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\07_Sorting_SelectionSort\bin\Debug\07_Sorting_SelectionSort.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\07_Sorting_SelectionSort\bin\Debug\07_Sorting_SelectionSort.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\07_Sorting_SelectionSort\obj\Debug\07_Sorting_SelectionSort.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\07_Sorting_SelectionSort\obj\Debug\07_Sorting_SelectionSort.pdb

@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\HWConditionalStatements\bin\Debug\HWConditionalStatements.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\HWConditionalStatements\bin\Debug\HWConditionalStatements.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\HWConditionalStatements\bin\Debug\HWConditionalStatements.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\HWConditionalStatements\obj\Debug\01. ExchangeValues.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\HWConditionalStatements\obj\Debug\HWConditionalStatements.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\HWConditionalStatements\obj\Debug\HWConditionalStatements.pdb

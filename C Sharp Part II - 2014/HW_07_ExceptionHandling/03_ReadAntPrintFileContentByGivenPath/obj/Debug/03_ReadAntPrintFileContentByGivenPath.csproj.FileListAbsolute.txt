@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\03_ReadAntPrintFileContentByGivenPath\bin\Debug\03_ReadAntPrintFileContentByGivenPath.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\03_ReadAntPrintFileContentByGivenPath\bin\Debug\03_ReadAntPrintFileContentByGivenPath.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\03_ReadAntPrintFileContentByGivenPath\bin\Debug\03_ReadAntPrintFileContentByGivenPath.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\03_ReadAntPrintFileContentByGivenPath\obj\Debug\03_ReadAntPrintFileContentByGivenPath.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\03_ReadAntPrintFileContentByGivenPath\obj\Debug\03_ReadAntPrintFileContentByGivenPath.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\03_ReadAntPrintFileContentByGivenPath\obj\Debug\03_ReadAntPrintFileContentByGivenPath.pdb

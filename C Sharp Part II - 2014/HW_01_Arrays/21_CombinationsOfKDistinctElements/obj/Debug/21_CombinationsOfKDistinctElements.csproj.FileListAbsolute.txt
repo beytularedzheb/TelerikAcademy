@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\21_CombinationsOfKDistinctElements\bin\Debug\21_CombinationsOfKDistinctElements.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\21_CombinationsOfKDistinctElements\bin\Debug\21_CombinationsOfKDistinctElements.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\21_CombinationsOfKDistinctElements\bin\Debug\21_CombinationsOfKDistinctElements.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\21_CombinationsOfKDistinctElements\obj\Debug\21_CombinationsOfKDistinctElements.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\21_CombinationsOfKDistinctElements\obj\Debug\21_CombinationsOfKDistinctElements.pdb

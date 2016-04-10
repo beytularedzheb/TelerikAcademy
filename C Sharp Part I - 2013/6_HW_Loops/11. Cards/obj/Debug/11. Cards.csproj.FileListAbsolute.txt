@@ -1,0 +1,6 @@
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\11. Cards\bin\Debug\_11.Cards.exe.config
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\11. Cards\bin\Debug\_11.Cards.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\11. Cards\bin\Debug\_11.Cards.pdb
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\11. Cards\obj\Debug\11. Cards.csprojResolveAssemblyReference.cache
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\11. Cards\obj\Debug\_11.Cards.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\11. Cards\obj\Debug\_11.Cards.pdb

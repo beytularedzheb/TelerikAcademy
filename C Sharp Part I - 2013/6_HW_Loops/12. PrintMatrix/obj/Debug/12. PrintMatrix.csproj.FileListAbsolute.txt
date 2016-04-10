@@ -1,0 +1,5 @@
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.exe.config
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\12. PrintMatrix\bin\Debug\_12.PrintMatrix.pdb
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\12. PrintMatrix\obj\Debug\_12.PrintMatrix.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\12. PrintMatrix\obj\Debug\_12.PrintMatrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_05_FeaturingWithGrisko\bin\Debug\_05_FeaturingWithGrisko.exe.config
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\CSharp_2_Izpit\_05_FeaturingWithGrisko\obj\Debug\_05_FeaturingWithGrisko.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\CSharp_2_Izpit\_05_FeaturingWithGrisko\bin\Debug\_05_FeaturingWithGrisko.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\CSharp_2_Izpit\_05_FeaturingWithGrisko\bin\Debug\_05_FeaturingWithGrisko.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\CSharp_2_Izpit\_05_FeaturingWithGrisko\obj\Debug\_05_FeaturingWithGrisko.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\CSharp_2_Izpit\_05_FeaturingWithGrisko\obj\Debug\_05_FeaturingWithGrisko.pdb

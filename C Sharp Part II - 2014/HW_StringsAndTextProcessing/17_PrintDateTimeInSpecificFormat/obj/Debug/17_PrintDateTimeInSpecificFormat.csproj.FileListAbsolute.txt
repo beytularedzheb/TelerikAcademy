@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\17_PrintDateTimeInSpecificFormat\bin\Debug\17_PrintDateTimeInSpecificFormat.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\17_PrintDateTimeInSpecificFormat\bin\Debug\17_PrintDateTimeInSpecificFormat.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\17_PrintDateTimeInSpecificFormat\bin\Debug\17_PrintDateTimeInSpecificFormat.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\17_PrintDateTimeInSpecificFormat\obj\Debug\17_PrintDateTimeInSpecificFormat.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\17_PrintDateTimeInSpecificFormat\obj\Debug\17_PrintDateTimeInSpecificFormat.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\17_PrintDateTimeInSpecificFormat\obj\Debug\17_PrintDateTimeInSpecificFormat.csprojResolveAssemblyReference.cache

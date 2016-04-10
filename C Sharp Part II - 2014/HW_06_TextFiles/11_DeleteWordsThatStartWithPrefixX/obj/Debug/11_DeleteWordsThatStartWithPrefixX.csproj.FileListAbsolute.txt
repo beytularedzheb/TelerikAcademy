@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\11_DeleteWordsThatStartWithPrefixX\bin\Debug\11_DeleteWordsThatStartWithPrefixX.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\11_DeleteWordsThatStartWithPrefixX\bin\Debug\11_DeleteWordsThatStartWithPrefixX.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\11_DeleteWordsThatStartWithPrefixX\bin\Debug\11_DeleteWordsThatStartWithPrefixX.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\11_DeleteWordsThatStartWithPrefixX\obj\Debug\11_DeleteWordsThatStartWithPrefixX.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\11_DeleteWordsThatStartWithPrefixX\obj\Debug\11_DeleteWordsThatStartWithPrefixX.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\11_DeleteWordsThatStartWithPrefixX\obj\Debug\11_DeleteWordsThatStartWithPrefixX.pdb

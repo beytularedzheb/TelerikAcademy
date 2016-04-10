@@ -1,0 +1,81 @@
+@-webkit-keyframes myfirst{
+	0%{
+		top: 1%;
+		left: 1%;
+	}
+	25%{
+		top: 1%;
+		left: 95%;
+	}
+	50%{
+		top: 97%;
+		left: 95%;
+	}
+	75%{
+		top: 97%;
+		left: 1%;
+	}
+	100%{
+		top: 1%;
+		left: 1%;
+	}
+}
+@-moz-keyframes myfirst{
+	0%{
+		top: 1%;
+		left: 1%;
+	}
+	25%{
+		top: 1%;
+		left: 95%;
+	}
+	50%{
+		top: 97%;
+		left: 95%;
+	}
+	75%{
+		top: 97%;
+		left: 1%;
+	}
+	100%{
+		top: 1%;
+		left: 1%;
+	}
+}
+@-o-keyframes myfirst{
+	0%{
+		top: 1%;
+		left: 1%;
+	}
+	25%{
+		top: 1%;
+		left: 95%;
+	}
+	50%{
+		top: 97%;
+		left: 95%;
+	}
+	75%{
+		top: 97%;
+		left: 1%;
+	}
+	100%{
+		top: 1%;
+		left: 1%;
+	}
+}
+
+div{
+	position: absolute;
+	width: 90px;
+	text-align: center;
+	font-size: 20px;
+	color: white;
+	background-color: purple;
+	font-weight: bold;
+	-webkit-animation: myfirst 16s;
+	-moz-animation: myfirst 16s;
+	-webkit-animation-timing-function: linear;	
+	-o-animation: myfirst 16s;
+	-o-animation-timing-function: linear;
+}

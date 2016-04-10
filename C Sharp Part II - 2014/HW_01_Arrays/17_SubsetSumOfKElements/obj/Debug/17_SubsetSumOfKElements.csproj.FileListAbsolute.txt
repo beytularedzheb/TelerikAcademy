@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\17_SubsetSumOfKElements\bin\Debug\17_SubsetSumOfKElements.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\17_SubsetSumOfKElements\bin\Debug\17_SubsetSumOfKElements.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\17_SubsetSumOfKElements\bin\Debug\17_SubsetSumOfKElements.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\17_SubsetSumOfKElements\obj\Debug\17_SubsetSumOfKElements.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\17_SubsetSumOfKElements\obj\Debug\17_SubsetSumOfKElements.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\17_SubsetSumOfKElements\obj\Debug\17_SubsetSumOfKElements.pdb

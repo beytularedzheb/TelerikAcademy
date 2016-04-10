@@ -1,0 +1,5 @@
+ludnitsa 4
+Varna 3
+Sofia 2
+Ruse 1
+Burgas 0

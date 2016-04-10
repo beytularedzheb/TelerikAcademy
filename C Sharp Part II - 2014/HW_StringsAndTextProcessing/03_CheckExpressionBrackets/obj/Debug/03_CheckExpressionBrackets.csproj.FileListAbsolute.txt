@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\03_CheckExpressionBrackets\bin\Debug\03_CheckExpressionBrackets.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\03_CheckExpressionBrackets\bin\Debug\03_CheckExpressionBrackets.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\03_CheckExpressionBrackets\bin\Debug\03_CheckExpressionBrackets.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\03_CheckExpressionBrackets\obj\Debug\03_CheckExpressionBrackets.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\03_CheckExpressionBrackets\obj\Debug\03_CheckExpressionBrackets.pdb

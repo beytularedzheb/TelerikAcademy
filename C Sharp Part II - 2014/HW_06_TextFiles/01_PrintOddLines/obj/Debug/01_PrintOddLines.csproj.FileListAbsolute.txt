@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\01_PrintOddLines\bin\Debug\01_PrintOddLines.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\01_PrintOddLines\bin\Debug\01_PrintOddLines.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\01_PrintOddLines\bin\Debug\01_PrintOddLines.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\01_PrintOddLines\obj\Debug\01_PrintOddLines.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\01_PrintOddLines\obj\Debug\01_PrintOddLines.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\01_PrintOddLines\obj\Debug\01_PrintOddLines.pdb

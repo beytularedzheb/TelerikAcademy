@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\06_MaximalSum\bin\Debug\06_MaximalSum.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\06_MaximalSum\bin\Debug\06_MaximalSum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\06_MaximalSum\bin\Debug\06_MaximalSum.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\06_MaximalSum\obj\Debug\06_MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\06_MaximalSum\obj\Debug\06_MaximalSum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\06_MaximalSum\obj\Debug\06_MaximalSum.pdb

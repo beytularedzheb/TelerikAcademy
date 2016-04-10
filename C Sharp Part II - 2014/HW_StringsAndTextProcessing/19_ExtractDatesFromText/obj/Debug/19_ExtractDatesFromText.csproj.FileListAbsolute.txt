@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\19_ExtractDatesFromText\bin\Debug\19_ExtractDatesFromText.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\19_ExtractDatesFromText\bin\Debug\19_ExtractDatesFromText.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\19_ExtractDatesFromText\bin\Debug\19_ExtractDatesFromText.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\19_ExtractDatesFromText\obj\Debug\19_ExtractDatesFromText.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\19_ExtractDatesFromText\obj\Debug\19_ExtractDatesFromText.pdb

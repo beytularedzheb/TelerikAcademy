@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\11_PrintNumberInSomeFormats\bin\Debug\11_PrintNumberInSomeFormats.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\11_PrintNumberInSomeFormats\bin\Debug\11_PrintNumberInSomeFormats.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\11_PrintNumberInSomeFormats\bin\Debug\11_PrintNumberInSomeFormats.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\11_PrintNumberInSomeFormats\obj\Debug\11_PrintNumberInSomeFormats.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\11_PrintNumberInSomeFormats\obj\Debug\11_PrintNumberInSomeFormats.pdb

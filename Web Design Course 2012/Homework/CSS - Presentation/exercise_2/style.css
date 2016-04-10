@@ -1,0 +1,43 @@
+#container{
+	width: 900px;
+	border: 5px double #666;
+	border-radius: 15px;
+	padding-left: 10px;
+	padding-bottom: 30px;
+}
+ul li{
+	list-style: none;
+}
+.buttons li{
+	float: left;
+	margin: 5px;
+}
+.buttons li input{
+	width: 80px;
+}
+.episode-list{
+	width: 290px;
+	height: 200px;
+	overflow-y: scroll;
+}
+.episode-list li{
+	margin-bottom: 8px;
+	text-indent: -15px;
+}
+.episode-list li a{
+	color: #22694c;
+	font-size: 16px;
+}
+table{
+	padding: 15px;
+	background-color: #2277ff;
+	border-radius: 10px;
+}
+#time-range{
+	width: 420px;
+}
+#scene{
+	border-radius: 5px;
+	width: 515px;
+	height: 325px;
+}

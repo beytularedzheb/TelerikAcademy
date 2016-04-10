@@ -1,0 +1,12 @@
+body{background-color: #595959; font-family: Arial; color: #aaa}
+body>span{font-size: 20px;}
+th{color: #dbdbdb; font-style: italic; text-align: left;}
+td{padding: 10px 25px;}
+.yellow img+br+span{color: red;}
+.yellow{color: #e5e5aa;}
+#c2r5{color: orange;}
+body>div{
+	border: 5px dashed #faf8c8;
+	border-radius: 8px;
+	width: 400px;
+}

@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\04. ReminderOfTheDivisionBy5Is0\bin\Debug\_04.ReminderOfTheDivisionBy5Is0.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\04. ReminderOfTheDivisionBy5Is0\bin\Debug\_04.ReminderOfTheDivisionBy5Is0.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\04. ReminderOfTheDivisionBy5Is0\bin\Debug\_04.ReminderOfTheDivisionBy5Is0.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\04. ReminderOfTheDivisionBy5Is0\obj\Debug\04. ReminderOfTheDivisionBy5Is0.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\04. ReminderOfTheDivisionBy5Is0\obj\Debug\_04.ReminderOfTheDivisionBy5Is0.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConsoleInputOutput\04. ReminderOfTheDivisionBy5Is0\obj\Debug\_04.ReminderOfTheDivisionBy5Is0.pdb

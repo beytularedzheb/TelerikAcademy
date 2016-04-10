@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_05_TheyAreGreen\bin\Debug\_05_TheyAreGreen.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_05_TheyAreGreen\bin\Debug\_05_TheyAreGreen.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_05_TheyAreGreen\bin\Debug\_05_TheyAreGreen.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_05_TheyAreGreen\obj\Debug\_05_TheyAreGreen.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_05_TheyAreGreen\obj\Debug\_05_TheyAreGreen.pdb

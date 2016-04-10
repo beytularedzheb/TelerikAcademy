@@ -1,0 +1,35 @@
+button,a{
+	border: 0;
+	padding: 0;
+	margin: 0;
+	margin-right: 25px;
+	float: left;
+	font-family: calibri, sans-serif;
+	background-size: contain;
+	background-color: transparent;
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+}
+div{
+	float: left;
+	height: 55px;
+}
+div.b_l{
+	width: 25px;
+	background: url('button_left.png') no-repeat;
+}
+div.b_c{
+	background: url('button_center.png') repeat-x;
+	padding-left: 25px;
+	padding-right: 25px;
+	line-height: 42px;
+	font-size: 20px;
+}
+div.b_r{
+	width: 31px;;
+	background: url('button_right.png') no-repeat;
+}
+
+
+

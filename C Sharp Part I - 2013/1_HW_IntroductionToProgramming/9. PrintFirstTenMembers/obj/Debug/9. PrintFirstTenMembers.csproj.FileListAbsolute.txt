@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\9. PrintFirstTenMembers\bin\Debug\_9.PrintFirstTenMembers.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\9. PrintFirstTenMembers\bin\Debug\_9.PrintFirstTenMembers.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\9. PrintFirstTenMembers\bin\Debug\_9.PrintFirstTenMembers.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\9. PrintFirstTenMembers\obj\Debug\_9.PrintFirstTenMembers.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\9. PrintFirstTenMembers\obj\Debug\_9.PrintFirstTenMembers.pdb

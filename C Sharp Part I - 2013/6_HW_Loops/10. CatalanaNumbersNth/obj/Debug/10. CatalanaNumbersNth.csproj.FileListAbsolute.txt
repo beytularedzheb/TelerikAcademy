@@ -1,0 +1,5 @@
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\10. CatalanaNumbersNth\bin\Debug\_10.CatalanaNumbersNth.exe.config
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\10. CatalanaNumbersNth\bin\Debug\_10.CatalanaNumbersNth.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\10. CatalanaNumbersNth\bin\Debug\_10.CatalanaNumbersNth.pdb
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\10. CatalanaNumbersNth\obj\Debug\_10.CatalanaNumbersNth.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\10. CatalanaNumbersNth\obj\Debug\_10.CatalanaNumbersNth.pdb

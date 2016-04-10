@@ -1,0 +1,6 @@
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValToIntAndDoubleAndPrint\bin\Debug\_13.AssignNullValToIntAndDoubleAndPrint.exe.config
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValToIntAndDoubleAndPrint\bin\Debug\_13.AssignNullValToIntAndDoubleAndPrint.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValToIntAndDoubleAndPrint\bin\Debug\_13.AssignNullValToIntAndDoubleAndPrint.pdb
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValToIntAndDoubleAndPrint\obj\Debug\_13.AssignNullValToIntAndDoubleAndPrint.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValToIntAndDoubleAndPrint\obj\Debug\_13.AssignNullValToIntAndDoubleAndPrint.pdb
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\13. AssignNullValToIntAndDoubleAndPrint\obj\Debug\13. AssignNullValToIntAndDoubleAndPrint.csprojResolveAssemblyReference.cache

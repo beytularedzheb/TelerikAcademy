@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\05_MaximalSum2x2\bin\Debug\05_MaximalSum2x2.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\05_MaximalSum2x2\bin\Debug\05_MaximalSum2x2.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\05_MaximalSum2x2\bin\Debug\05_MaximalSum2x2.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\05_MaximalSum2x2\obj\Debug\05_MaximalSum2x2.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\05_MaximalSum2x2\obj\Debug\05_MaximalSum2x2.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\05_MaximalSum2x2\obj\Debug\05_MaximalSum2x2.pdb

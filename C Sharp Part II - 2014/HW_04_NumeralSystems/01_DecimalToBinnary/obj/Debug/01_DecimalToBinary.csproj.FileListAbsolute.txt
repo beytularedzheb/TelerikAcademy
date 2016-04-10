@@ -1,0 +1,18 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe.config
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe.config
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinnary.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\01_DecimalToBinnary\bin\Debug\01_DecimalToBinnary.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\01_DecimalToBinnary\obj\Debug\01_DecimalToBinary.csprojResolveAssemblyReference.cache

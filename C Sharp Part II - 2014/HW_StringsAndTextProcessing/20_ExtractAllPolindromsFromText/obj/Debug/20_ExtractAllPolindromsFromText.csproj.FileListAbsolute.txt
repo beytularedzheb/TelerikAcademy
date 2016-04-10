@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\20_ExtractAllPolindromsFromText\bin\Debug\20_ExtractAllPolindromsFromText.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\20_ExtractAllPolindromsFromText\bin\Debug\20_ExtractAllPolindromsFromText.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\20_ExtractAllPolindromsFromText\bin\Debug\20_ExtractAllPolindromsFromText.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\20_ExtractAllPolindromsFromText\obj\Debug\20_ExtractAllPolindromsFromText.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\20_ExtractAllPolindromsFromText\obj\Debug\20_ExtractAllPolindromsFromText.pdb

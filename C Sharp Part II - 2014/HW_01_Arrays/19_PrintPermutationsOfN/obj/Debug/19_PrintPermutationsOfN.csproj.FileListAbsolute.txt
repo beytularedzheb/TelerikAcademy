@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\19_PrintPermutationsOfN\bin\Debug\19_PrintPermutationsOfN.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\19_PrintPermutationsOfN\bin\Debug\19_PrintPermutationsOfN.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\19_PrintPermutationsOfN\bin\Debug\19_PrintPermutationsOfN.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\19_PrintPermutationsOfN\obj\Debug\19_PrintPermutationsOfN.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\19_PrintPermutationsOfN\obj\Debug\19_PrintPermutationsOfN.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\19_PrintPermutationsOfN\obj\Debug\19_PrintPermutationsOfN.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\03. ReadNNumAndReturnMinAndMax\bin\Debug\_03.ReadNNumAndReturnMinAndMax.exe.config
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\03. ReadNNumAndReturnMinAndMax\bin\Debug\_03.ReadNNumAndReturnMinAndMax.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\03. ReadNNumAndReturnMinAndMax\bin\Debug\_03.ReadNNumAndReturnMinAndMax.pdb
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\03. ReadNNumAndReturnMinAndMax\obj\Debug\_03.ReadNNumAndReturnMinAndMax.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\03. ReadNNumAndReturnMinAndMax\obj\Debug\_03.ReadNNumAndReturnMinAndMax.pdb

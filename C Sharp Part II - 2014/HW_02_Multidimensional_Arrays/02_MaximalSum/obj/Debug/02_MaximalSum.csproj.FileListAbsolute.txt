@@ -1,0 +1,15 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\02_MaximalSum\bin\Debug\02_MaximalSum.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\02_MaximalSum\bin\Debug\02_MaximalSum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\02_MaximalSum\bin\Debug\02_MaximalSum.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\02_MaximalSum\bin\Debug\02_MaximalSum.exe.config
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\02_MaximalSum\bin\Debug\02_MaximalSum.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\02_MaximalSum\bin\Debug\02_MaximalSum.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\02_MaximalSum\bin\Debug\02_MaximalSum.exe.config
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.exe
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\02_MaximalSum\obj\Debug\02_MaximalSum.pdb

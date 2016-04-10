@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\04_DownloadFileFromInternet\bin\Debug\04_DownloadFileFromInternet.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\04_DownloadFileFromInternet\bin\Debug\04_DownloadFileFromInternet.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\04_DownloadFileFromInternet\bin\Debug\04_DownloadFileFromInternet.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\04_DownloadFileFromInternet\obj\Debug\04_DownloadFileFromInternet.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\04_DownloadFileFromInternet\obj\Debug\04_DownloadFileFromInternet.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_07_ExceptionHandling\04_DownloadFileFromInternet\obj\Debug\04_DownloadFileFromInternet.pdb

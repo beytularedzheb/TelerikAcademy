@@ -1,0 +1,15 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\06_ClassMatrix\bin\Debug\06_ClassMatrix.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\06_ClassMatrix\bin\Debug\06_ClassMatrix.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\06_ClassMatrix\bin\Debug\06_ClassMatrix.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\06_ClassMatrix\bin\Debug\06_ClassMatrix.exe.config
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\06_ClassMatrix\bin\Debug\06_ClassMatrix.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\06_ClassMatrix\bin\Debug\06_ClassMatrix.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\06_ClassMatrix\bin\Debug\06_ClassMatrix.exe.config
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.exe
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\06_ClassMatrix\obj\Debug\06_ClassMatrix.pdb

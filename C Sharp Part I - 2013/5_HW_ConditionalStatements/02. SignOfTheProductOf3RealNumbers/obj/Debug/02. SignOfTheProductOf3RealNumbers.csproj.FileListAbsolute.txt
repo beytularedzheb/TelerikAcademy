@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\02. SignOfTheProductOf3RealNumbers\bin\Debug\_02.SignOfTheProductOf3RealNumbers.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\02. SignOfTheProductOf3RealNumbers\bin\Debug\_02.SignOfTheProductOf3RealNumbers.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\02. SignOfTheProductOf3RealNumbers\bin\Debug\_02.SignOfTheProductOf3RealNumbers.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\02. SignOfTheProductOf3RealNumbers\obj\Debug\02. SignOfTheProductOf3RealNumbers.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\02. SignOfTheProductOf3RealNumbers\obj\Debug\_02.SignOfTheProductOf3RealNumbers.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HWConditionalStatements\02. SignOfTheProductOf3RealNumbers\obj\Debug\_02.SignOfTheProductOf3RealNumbers.pdb

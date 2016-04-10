@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\15_ReplaceHTMLTags\bin\Debug\15_ReplaceHTMLTags.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\15_ReplaceHTMLTags\obj\Debug\15_ReplaceHTMLTags.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\15_ReplaceHTMLTags\bin\Debug\15_ReplaceHTMLTags.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\15_ReplaceHTMLTags\bin\Debug\15_ReplaceHTMLTags.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\15_ReplaceHTMLTags\obj\Debug\15_ReplaceHTMLTags.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\15_ReplaceHTMLTags\obj\Debug\15_ReplaceHTMLTags.pdb

@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03. RectanglesArea\bin\Debug\_03.RectanglesArea.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03. RectanglesArea\bin\Debug\_03.RectanglesArea.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03. RectanglesArea\bin\Debug\_03.RectanglesArea.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03. RectanglesArea\obj\Debug\_03.RectanglesArea.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\03. RectanglesArea\obj\Debug\_03.RectanglesArea.pdb

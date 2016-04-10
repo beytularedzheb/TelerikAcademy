@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_04_FakeTextMarkupLanguage\bin\Debug\_04_FakeTextMarkupLanguage.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_04_FakeTextMarkupLanguage\bin\Debug\_04_FakeTextMarkupLanguage.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_04_FakeTextMarkupLanguage\bin\Debug\_04_FakeTextMarkupLanguage.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_04_FakeTextMarkupLanguage\obj\Debug\_04_FakeTextMarkupLanguage.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_04_FakeTextMarkupLanguage\obj\Debug\_04_FakeTextMarkupLanguage.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_04_FakeTextMarkupLanguage\obj\Debug\_04_FakeTextMarkupLanguage.pdb

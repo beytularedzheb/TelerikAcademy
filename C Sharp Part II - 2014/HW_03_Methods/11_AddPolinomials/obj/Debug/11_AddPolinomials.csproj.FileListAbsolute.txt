@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\11_AddPolinomials\bin\Debug\11_AddPolinomials.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\11_AddPolinomials\bin\Debug\11_AddPolinomials.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\11_AddPolinomials\bin\Debug\11_AddPolinomials.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\11_AddPolinomials\obj\Debug\11_AddPolinomials.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\11_AddPolinomials\obj\Debug\11_AddPolinomials.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\11_AddPolinomials\obj\Debug\11_AddPolinomials.pdb

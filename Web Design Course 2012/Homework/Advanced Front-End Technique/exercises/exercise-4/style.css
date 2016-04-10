@@ -1,0 +1,56 @@
+table{
+	margin: 0 auto;
+	width: 900px;
+	font: 16px Arial;
+	font-weight: bold;
+	text-shadow: 1px 2px 4px #888;
+	color: #fff
+}
+tr:nth-child(2n+1){background-color: #ffe3cd}
+tr:nth-child(2n){background-color: #d6e3ff}
+td{
+	width: 150px;
+	text-align: center;
+	border-radius: 5px
+}
+div{
+	width: 16px;
+	height: 16px;
+	padding: 0 !important;
+	margin: 15px 0 5px 67px;
+	background-image: url("sprite.png")
+}
+#comment{background-position:0 0}
+#add-comment{background-position:-16px 0}
+#del-comment{background-position:-32px 0}
+#edit-comment{background-position:-48px 0}
+#comments{background-position:-64px 0}
+#add-comments{background-position:-80px 0}
+#del-comments{background-position:-96px 0}
+#folder{background-position:-112px 0}
+#add-folder{background-position:-128px 0}
+#del-folder{background-position:-144px 0}
+#edit-folder{background-position:-160px 0}
+#group{background-position:-176px 0}
+#add-group{background-position:-192px 0}
+#del-group{background-position:-208px 0}
+#edit-group{background-position:-224px 0}
+#page{background-position:-240px 0}
+#acrobat{background-position:-256px 0}
+#script{background-position:-272px 0}
+#add-page{background-position:-288px 0}
+#c{background-position:-304px 0}
+#cam{background-position:-320px 0}
+#cpp{background-position:-336px 0}
+#c-sharp{background-position:-352px 0}
+#cup{background-position:-368px 0}
+#del-page{background-position:-384px 0}
+#edit-page{background-position:-400px 0}
+#xls{background-position:-416px 0}
+#php{background-position:-432px 0}
+#ppt{background-position:-448px 0}
+#ruby{background-position:-464px 0}
+#user{background-position:-480px 0}
+#add-user{background-position:-496px 0}
+#del-user{background-position:-512px 0}
+#edit-user{background-position:-528px 0}

@@ -1,0 +1,10 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\06_FirstElementBiggerThanNeighbors\bin\Debug\06_FirstElementBiggerThanNeighbors.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\06_FirstElementBiggerThanNeighbors\bin\Debug\06_FirstElementBiggerThanNeighbors.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\06_FirstElementBiggerThanNeighbors\bin\Debug\06_FirstElementBiggerThanNeighbors.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\06_FirstElementBiggerThanNeighbors\obj\Debug\06_FirstElementBiggerThanNeighbors.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\06_FirstElementBiggerThanNeighbors\obj\Debug\06_FirstElementBiggerThanNeighbors.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\06_FirstElementBiggerThanNeighbors\bin\Debug\06_FirstElementBiggerThanNeighbors.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\06_FirstElementBiggerThanNeighbors\obj\Debug\06_FirstElementBiggerThanNeighbors.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\06_FirstElementBiggerThanNeighbors\obj\Debug\06_FirstElementBiggerThanNeighbors.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\06_FirstElementBiggerThanNeighbors\bin\Debug\06_FirstElementBiggerThanNeighbors.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\06_FirstElementBiggerThanNeighbors\bin\Debug\06_FirstElementBiggerThanNeighbors.pdb

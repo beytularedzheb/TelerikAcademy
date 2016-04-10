@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\13_FindOccurenceOfWords\bin\Debug\13_FindOccurenceOfWords.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\13_FindOccurenceOfWords\bin\Debug\13_FindOccurenceOfWords.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\13_FindOccurenceOfWords\bin\Debug\13_FindOccurenceOfWords.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\13_FindOccurenceOfWords\obj\Debug\13_FindOccurenceOfWords.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\13_FindOccurenceOfWords\obj\Debug\13_FindOccurenceOfWords.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\13_FindOccurenceOfWords\obj\Debug\13_FindOccurenceOfWords.pdb

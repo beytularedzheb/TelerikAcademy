@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\21_LettersNumberInString\bin\Debug\21_LettersNumberInString.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\21_LettersNumberInString\bin\Debug\21_LettersNumberInString.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\21_LettersNumberInString\bin\Debug\21_LettersNumberInString.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\21_LettersNumberInString\obj\Debug\21_LettersNumberInString.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\21_LettersNumberInString\obj\Debug\21_LettersNumberInString.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\21_LettersNumberInString\obj\Debug\21_LettersNumberInString.pdb

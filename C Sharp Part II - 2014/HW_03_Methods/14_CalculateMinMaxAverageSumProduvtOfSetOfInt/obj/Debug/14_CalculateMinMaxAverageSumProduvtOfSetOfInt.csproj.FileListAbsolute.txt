@@ -1,0 +1,1 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\14_CalculateMinMaxAverageSumProduvtOfSetOfInt\bin\Debug\14_CalculateMinMaxAverageSumProduvtOfSetOfInt.exe.config

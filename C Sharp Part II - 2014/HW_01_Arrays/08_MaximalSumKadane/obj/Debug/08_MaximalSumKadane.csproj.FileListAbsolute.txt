@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\08_MaximalSumKadane\bin\Debug\08_MaximalSumKadane.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\08_MaximalSumKadane\bin\Debug\08_MaximalSumKadane.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\08_MaximalSumKadane\bin\Debug\08_MaximalSumKadane.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\08_MaximalSumKadane\obj\Debug\08_MaximalSumKadane.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\08_MaximalSumKadane\obj\Debug\08_MaximalSumKadane.pdb

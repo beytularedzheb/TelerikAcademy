@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\07_ReplaceSomeStringInFile\bin\Debug\07_ReplaceSomeStringInFile.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\07_ReplaceSomeStringInFile\bin\Debug\07_ReplaceSomeStringInFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\07_ReplaceSomeStringInFile\bin\Debug\07_ReplaceSomeStringInFile.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\07_ReplaceSomeStringInFile\obj\Debug\07_ReplaceSomeStringInFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\07_ReplaceSomeStringInFile\obj\Debug\07_ReplaceSomeStringInFile.pdb

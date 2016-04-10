@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\bin\Debug\OperatorsExpressionsAndStatements.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\Debug\OperatorsExpressionsAndStatements.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\OperatorsExpressionsAndStatements\obj\Debug\OperatorsExpressionsAndStatements.pdb

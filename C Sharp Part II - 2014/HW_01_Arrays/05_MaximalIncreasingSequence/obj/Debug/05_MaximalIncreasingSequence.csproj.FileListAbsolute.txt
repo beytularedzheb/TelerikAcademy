@@ -1,0 +1,6 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\05_MaximalIncreasingSequence\bin\Debug\05_MaximalIncreasingSequence.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\05_MaximalIncreasingSequence\bin\Debug\05_MaximalIncreasingSequence.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\05_MaximalIncreasingSequence\bin\Debug\05_MaximalIncreasingSequence.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\05_MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_01_Arrays\05_MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\05_MaximalIncreasingSequence\obj\Debug\05_MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

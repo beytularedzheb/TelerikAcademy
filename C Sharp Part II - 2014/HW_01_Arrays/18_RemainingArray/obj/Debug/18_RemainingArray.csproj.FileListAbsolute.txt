@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\18_RemainingArray\bin\Debug\18_RemainingArray.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\18_RemainingArray\bin\Debug\18_RemainingArray.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\18_RemainingArray\bin\Debug\18_RemainingArray.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\18_RemainingArray\obj\Debug\18_RemainingArray.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\18_RemainingArray\obj\Debug\18_RemainingArray.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\18_RemainingArray\obj\Debug\18_RemainingArray.pdb

@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\10_ExtractTheTextFromXMLWithoutTheTags\bin\Debug\10_ExtractTheTextFromXMLWithoutTheTags.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\10_ExtractTheTextFromXMLWithoutTheTags\bin\Debug\10_ExtractTheTextFromXMLWithoutTheTags.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\10_ExtractTheTextFromXMLWithoutTheTags\bin\Debug\10_ExtractTheTextFromXMLWithoutTheTags.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\10_ExtractTheTextFromXMLWithoutTheTags\obj\Debug\10_ExtractTheTextFromXMLWithoutTheTags.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\10_ExtractTheTextFromXMLWithoutTheTags\obj\Debug\10_ExtractTheTextFromXMLWithoutTheTags.pdb

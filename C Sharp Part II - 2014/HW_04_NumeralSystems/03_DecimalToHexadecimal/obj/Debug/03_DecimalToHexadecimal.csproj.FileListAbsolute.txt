@@ -1,0 +1,9 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\03_DecimalToHexadecimal\bin\Debug\03_DecimalToHexadecimal.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\03_DecimalToHexadecimal\bin\Debug\03_DecimalToHexadecimal.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\03_DecimalToHexadecimal\bin\Debug\03_DecimalToHexadecimal.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\03_DecimalToHexadecimal\obj\Debug\03_DecimalToHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\03_DecimalToHexadecimal\obj\Debug\03_DecimalToHexadecimal.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\03_DecimalToHexadecimal\obj\Debug\03_DecimalToHexadecimal.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\03_DecimalToHexadecimal\bin\Debug\03_DecimalToHexadecimal.exe.config
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\03_DecimalToHexadecimal\obj\Debug\03_DecimalToHexadecimal.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\03_DecimalToHexadecimal\obj\Debug\03_DecimalToHexadecimal.pdb

@@ -1,0 +1,15 @@
+c:\users\beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\HW_Multidimensional_Arrays\bin\Debug\HW_Multidimensional_Arrays.exe.config
+c:\users\beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\HW_Multidimensional_Arrays\bin\Debug\HW_Multidimensional_Arrays.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\HW_Multidimensional_Arrays\bin\Debug\HW_Multidimensional_Arrays.pdb
+c:\users\beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\01_MatrixPrint.csprojResolveAssemblyReference.cache
+c:\users\beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\HW_Multidimensional_Arrays.exe
+c:\users\beytula\documents\visual studio 2013\Projects\HW_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\HW_Multidimensional_Arrays.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\bin\Debug\HW_Multidimensional_Arrays.exe.config
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\HW_Multidimensional_Arrays.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\HW_Multidimensional_Arrays.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\bin\Debug\HW_Multidimensional_Arrays.exe
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\bin\Debug\HW_Multidimensional_Arrays.pdb
+C:\Users\Beytula\Documents\Visual Studio 2013\Projects\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\01_MatrixPrint.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\bin\Debug\HW_Multidimensional_Arrays.exe.config
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\HW_Multidimensional_Arrays.exe
+C:\Users\Beytula\Downloads\HW_02_Multidimensional_Arrays\HW_Multidimensional_Arrays\obj\Debug\HW_Multidimensional_Arrays.pdb

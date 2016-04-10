@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.CheckThirdDigitIsSeven\bin\Debug\04.CheckThirdDigitIsSeven.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.CheckThirdDigitIsSeven\bin\Debug\04.CheckThirdDigitIsSeven.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.CheckThirdDigitIsSeven\bin\Debug\04.CheckThirdDigitIsSeven.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.CheckThirdDigitIsSeven\obj\Debug\04.CheckThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.CheckThirdDigitIsSeven\obj\Debug\04.CheckThirdDigitIsSeven.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\04.CheckThirdDigitIsSeven\obj\Debug\04.CheckThirdDigitIsSeven.pdb

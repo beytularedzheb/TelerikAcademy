@@ -1,0 +1,66 @@
+body{background-color: #f1f1f1;}
+body>div div{float:left;}
+body>div{		
+	border: 5px solid #7f7f7f;
+	border-radius: 8px;
+	width: 490px;
+	height: 99px;
+}
+.sep{
+	width: 5px; height: 99px; 
+	background-image: url("images/vert.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+a #dashboard{
+	width: 94px; height: 99px; 
+	background-image: url("images/dashboard.png");
+	background-repeat: no-repeat;
+}
+a:hover #dashboard{
+	width: 94px; height: 99px; 
+	background-image: url("images/dashboard_hover.png");
+	background-repeat: no-repeat;
+}
+a #task{
+	width: 94px; height: 99px; 
+	background-image: url("images/tasks.png");
+	background-repeat: no-repeat;
+}
+a:hover #task{
+	width: 94px; height: 99px; 
+	background-image: url("images/tasks_hover.png");
+	background-repeat: no-repeat;
+}
+a #user{
+	width: 94px; height: 99px; 
+	background-image: url("images/users.png");
+	background-repeat: no-repeat;
+}
+a:hover #user{
+	width: 94px; height: 99px; 
+	background-image: url("images/users_hover.png");
+	background-repeat: no-repeat;
+}
+a #report{
+	width: 94px; height: 99px; 
+	background-image: url("images/reports.png");
+	background-repeat: no-repeat;
+}
+a:hover #report{
+	width: 94px; height: 99px; 
+	background-image: url("images/reports_hover.png");
+	background-repeat: no-repeat;
+}
+a #error{
+	width: 94px; height: 99px; 
+	background-image: url("images/404.png");
+	background-repeat: no-repeat;
+}
+a:hover #error{
+	width: 94px; height: 99px; 
+	background-image: url("images/404_hover.png");
+	background-repeat: no-repeat;
+}
+/*end - hor_menu*/
+

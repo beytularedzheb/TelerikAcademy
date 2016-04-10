@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06. IsPointInCircle\bin\Debug\_06.IsPointInCircle.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06. IsPointInCircle\bin\Debug\_06.IsPointInCircle.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06. IsPointInCircle\bin\Debug\_06.IsPointInCircle.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06. IsPointInCircle\obj\Debug\_06.IsPointInCircle.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06. IsPointInCircle\obj\Debug\_06.IsPointInCircle.pdb

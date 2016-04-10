@@ -1,0 +1,5 @@
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11. DeclareTwoIntAndExchange\bin\Debug\_11.DeclareTwoIntAndExchange.exe.config
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11. DeclareTwoIntAndExchange\bin\Debug\_11.DeclareTwoIntAndExchange.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11. DeclareTwoIntAndExchange\bin\Debug\_11.DeclareTwoIntAndExchange.pdb
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11. DeclareTwoIntAndExchange\obj\Debug\_11.DeclareTwoIntAndExchange.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11. DeclareTwoIntAndExchange\obj\Debug\_11.DeclareTwoIntAndExchange.pdb

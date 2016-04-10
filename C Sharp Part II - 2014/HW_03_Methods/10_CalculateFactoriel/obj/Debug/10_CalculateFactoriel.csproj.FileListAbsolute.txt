@@ -1,0 +1,9 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\10_CalculateFactoriel\bin\Debug\10_CalculateFactoriel.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\10_CalculateFactoriel\bin\Debug\10_CalculateFactoriel.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\10_CalculateFactoriel\bin\Debug\10_CalculateFactoriel.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\10_CalculateFactoriel\obj\Debug\10_CalculateFactoriel.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\10_CalculateFactoriel\obj\Debug\10_CalculateFactoriel.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\10_CalculateFactoriel\obj\Debug\10_CalculateFactoriel.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\10_CalculateFactoriel\bin\Debug\10_CalculateFactoriel.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\10_CalculateFactoriel\obj\Debug\10_CalculateFactoriel.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\10_CalculateFactoriel\obj\Debug\10_CalculateFactoriel.pdb

@@ -1,0 +1,8 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\bin\Debug\06_BinaryToHexadecimalDirectly.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\bin\Debug\06_BinaryToHexadecimalDirectly.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\bin\Debug\06_BinaryToHexadecimalDirectly.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\obj\Debug\06_BinaryToHexadecimalDirectly.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\obj\Debug\06_BinaryToHexadecimalDirectly.pdb
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\bin\Debug\06_BinaryToHexadecimalDirectly.exe.config
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\obj\Debug\06_BinaryToHexadecimalDirectly.exe
+C:\Users\Beytula\Downloads\HW_04_NumeralSystems\HW_04_NumeralSystems\06_BinaryToHexadecimalDirectly\obj\Debug\06_BinaryToHexadecimalDirectly.pdb

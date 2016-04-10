@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\12_ParseGivenURL\bin\Debug\12_ParseGivenURL.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\12_ParseGivenURL\bin\Debug\12_ParseGivenURL.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\12_ParseGivenURL\bin\Debug\12_ParseGivenURL.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\12_ParseGivenURL\obj\Debug\12_ParseGivenURL.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\12_ParseGivenURL\obj\Debug\12_ParseGivenURL.pdb

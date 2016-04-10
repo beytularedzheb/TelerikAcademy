@@ -1,0 +1,50 @@
+body{
+	font-family: Arial;
+}
+fieldset fieldset{
+	width: 300px;
+	float: left;
+}
+img{
+	float:left;
+}
+fieldset p{
+	font-size: 20px;
+	margin-left: 10px;
+	margin-bottom: 0;
+	float: left;
+}
+fieldset p span{
+	margin-left: 70px;
+}
+#firsrfield{
+	width: 665px;
+	height: 605px;
+}
+legend{
+	padding: 10px;
+}
+#laptop_mark{
+	text-align: center;
+	border-bottom: 2px solid #999;
+	padding-bottom: 5px;
+	margin-bottom: 10px;
+}
+#laptop_mark a{
+	color: #00adef;
+	font-weight: bold;
+	font-size: 20px;
+}
+#cont{
+	width: 910px;
+	height: 670px;
+	padding: 10px;
+	border: 2px solid #999;
+	border-radius: 10px;
+}
+#ranges{
+	font-size: 20px;
+	position: relative;
+	top: -500px;
+	left: 720px;
+}

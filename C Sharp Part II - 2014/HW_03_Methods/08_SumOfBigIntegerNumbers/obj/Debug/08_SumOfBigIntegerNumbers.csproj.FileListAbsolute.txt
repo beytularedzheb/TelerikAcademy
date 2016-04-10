@@ -1,0 +1,17 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\07_ReverseTheDigitsOfDecimalNumber.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\07_ReverseTheDigitsOfDecimalNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\07_ReverseTheDigitsOfDecimalNumber.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\07_ReverseTheDigitsOfDecimalNumber.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\07_ReverseTheDigitsOfDecimalNumber.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\08_SumOfBigIntegerNumbers.exe.config
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\08_SumOfBigIntegerNumbers.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\bin\Debug\08_SumOfBigIntegerNumbers.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\08_SumOfBigIntegerNumbers.csprojResolveAssemblyReference.cache
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\08_SumOfBigIntegerNumbers.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\07_ReverseTheDigitsOfDecimalNumber\obj\Debug\08_SumOfBigIntegerNumbers.pdb
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\08_SumOfBigIntegerNumbers\bin\Debug\08_SumOfBigIntegerNumbers.exe.config
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\08_SumOfBigIntegerNumbers\obj\Debug\08_SumOfBigIntegerNumbers.exe
+E:\Development\Telerik Academy\C# I-част\NEW\C# 2 част\03. Методи\HW_03_Methods\HW_03_Methods\08_SumOfBigIntegerNumbers\obj\Debug\08_SumOfBigIntegerNumbers.pdb
+C:\Users\Beytula\Downloads\HW_03_Methods\08_SumOfBigIntegerNumbers\bin\Debug\08_SumOfBigIntegerNumbers.exe.config
+C:\Users\Beytula\Downloads\HW_03_Methods\08_SumOfBigIntegerNumbers\obj\Debug\08_SumOfBigIntegerNumbers.exe
+C:\Users\Beytula\Downloads\HW_03_Methods\08_SumOfBigIntegerNumbers\obj\Debug\08_SumOfBigIntegerNumbers.pdb

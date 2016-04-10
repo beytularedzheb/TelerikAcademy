@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12. SetTheValueOfBitX\bin\Debug\_12.SetTheValueOfBitX.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12. SetTheValueOfBitX\bin\Debug\_12.SetTheValueOfBitX.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12. SetTheValueOfBitX\bin\Debug\_12.SetTheValueOfBitX.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12. SetTheValueOfBitX\obj\Debug\_12.SetTheValueOfBitX.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12. SetTheValueOfBitX\obj\Debug\_12.SetTheValueOfBitX.pdb

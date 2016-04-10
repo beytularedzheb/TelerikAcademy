@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\05_ChangeTextInTagsUpcase\bin\Debug\05_ChangeTextInTagsUpcase.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\05_ChangeTextInTagsUpcase\bin\Debug\05_ChangeTextInTagsUpcase.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\05_ChangeTextInTagsUpcase\bin\Debug\05_ChangeTextInTagsUpcase.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\05_ChangeTextInTagsUpcase\obj\Debug\05_ChangeTextInTagsUpcase.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\05_ChangeTextInTagsUpcase\obj\Debug\05_ChangeTextInTagsUpcase.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\05_ChangeTextInTagsUpcase\obj\Debug\05_ChangeTextInTagsUpcase.pdb

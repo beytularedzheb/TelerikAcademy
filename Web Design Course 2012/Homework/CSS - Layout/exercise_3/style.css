@@ -1,0 +1,61 @@
+#container{
+	width: 700px;
+	height: 340px;
+	background-color: #3b3b3b;
+	padding: 10px;
+	border-radius: 10px;
+}
+form{
+	display:inline;
+	padding: 5px;
+}
+#shadow{
+	height: 18px;
+	width: 700px;
+	margin: 0;
+	padding: 0;
+	background: url("images/shadow.png") no-repeat bottom;
+	background-size: 700px 18px;
+}
+#login span{
+	color: white;
+	font-size: 24px;
+	font-weight: bold;
+	padding-left: 15px;
+}
+input[type~=image]{
+	border: 1px solid white;
+	border-radius: 10px;
+	padding: 0;
+	vertical-align: middle;
+}
+input{
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 20px;
+}
+p{
+	white-space: normal;
+	padding: 0;
+	color: #aaa;
+	font-family: Arial;
+	font-weight: 200;
+}
+img[alt="monitor"]{
+	vertical-align: middle;
+}
+#main{
+	width: 610px;
+}
+h1{
+	color: #fcda21;
+}
+#main a{
+	text-decoration: none;
+	color: #aaa;
+}
+#main p span{
+	color: white;
+}
+
+

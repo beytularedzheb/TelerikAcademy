@@ -1,0 +1,6 @@
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\13. TrailingZeros\bin\Debug\_13.TrailingZeros.exe.config
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\13. TrailingZeros\bin\Debug\_13.TrailingZeros.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\13. TrailingZeros\bin\Debug\_13.TrailingZeros.pdb
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\13. TrailingZeros\obj\Debug\13. TrailingZeros.csprojResolveAssemblyReference.cache
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\13. TrailingZeros\obj\Debug\_13.TrailingZeros.exe
+C:\Users\TheSilent\documents\visual studio 2012\Projects\HWLoops\13. TrailingZeros\obj\Debug\_13.TrailingZeros.pdb

@@ -1,0 +1,5 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\8. CalculateAndPrintSquare\bin\Debug\_8.CalculateAndPrintSquare.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\8. CalculateAndPrintSquare\bin\Debug\_8.CalculateAndPrintSquare.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\8. CalculateAndPrintSquare\bin\Debug\_8.CalculateAndPrintSquare.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\8. CalculateAndPrintSquare\obj\Debug\_8.CalculateAndPrintSquare.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\8. CalculateAndPrintSquare\obj\Debug\_8.CalculateAndPrintSquare.pdb

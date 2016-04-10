@@ -1,0 +1,5 @@
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\HWConsoleInputOutput\11. FallingRocks\bin\Debug\_11.FallingRocks.exe.config
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\HWConsoleInputOutput\11. FallingRocks\bin\Debug\_11.FallingRocks.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\HWConsoleInputOutput\11. FallingRocks\bin\Debug\_11.FallingRocks.pdb
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\HWConsoleInputOutput\11. FallingRocks\obj\Debug\_11.FallingRocks.exe
+C:\Users\TheSilent\Documents\Visual Studio 2012\Projects\HWConsoleInputOutput\11. FallingRocks\obj\Debug\_11.FallingRocks.pdb

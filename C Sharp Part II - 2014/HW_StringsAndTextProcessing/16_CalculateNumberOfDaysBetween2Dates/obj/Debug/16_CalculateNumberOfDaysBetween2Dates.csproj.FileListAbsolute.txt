@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\16_CalculateNumberOfDaysBetween2Dates\bin\Debug\16_CalculateNumberOfDaysBetween2Dates.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\16_CalculateNumberOfDaysBetween2Dates\bin\Debug\16_CalculateNumberOfDaysBetween2Dates.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\16_CalculateNumberOfDaysBetween2Dates\bin\Debug\16_CalculateNumberOfDaysBetween2Dates.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\16_CalculateNumberOfDaysBetween2Dates\obj\Debug\16_CalculateNumberOfDaysBetween2Dates.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\16_CalculateNumberOfDaysBetween2Dates\obj\Debug\16_CalculateNumberOfDaysBetween2Dates.pdb

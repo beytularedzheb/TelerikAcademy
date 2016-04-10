@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\08_ReplaceWordInFile\bin\Debug\08_ReplaceWordInFile.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\08_ReplaceWordInFile\bin\Debug\08_ReplaceWordInFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\08_ReplaceWordInFile\bin\Debug\08_ReplaceWordInFile.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\08_ReplaceWordInFile\obj\Debug\08_ReplaceWordInFile.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\08_ReplaceWordInFile\obj\Debug\08_ReplaceWordInFile.pdb

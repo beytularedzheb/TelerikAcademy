@@ -1,0 +1,6 @@
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\06. CalculateSumForGivenNAndX\bin\Debug\_06.CalculateSumForGivenNAndX.exe.config
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\06. CalculateSumForGivenNAndX\obj\Debug\06. CalculateSumForGivenNAndX.csprojResolveAssemblyReference.cache
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\06. CalculateSumForGivenNAndX\bin\Debug\_06.CalculateSumForGivenNAndX.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\06. CalculateSumForGivenNAndX\bin\Debug\_06.CalculateSumForGivenNAndX.pdb
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\06. CalculateSumForGivenNAndX\obj\Debug\_06.CalculateSumForGivenNAndX.exe
+c:\Users\thesilent\documents\visual studio 2012\Projects\HWLoops\06. CalculateSumForGivenNAndX\obj\Debug\_06.CalculateSumForGivenNAndX.pdb

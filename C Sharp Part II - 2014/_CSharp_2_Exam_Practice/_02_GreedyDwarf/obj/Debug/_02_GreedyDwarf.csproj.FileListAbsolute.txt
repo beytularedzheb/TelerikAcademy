@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_GreedyDwarf\bin\Debug\_02_GreedyDwarf.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_GreedyDwarf\bin\Debug\_02_GreedyDwarf.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_GreedyDwarf\bin\Debug\_02_GreedyDwarf.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_GreedyDwarf\obj\Debug\_02_GreedyDwarf.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_GreedyDwarf\obj\Debug\_02_GreedyDwarf.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\CSharp_2_Izpit\_02_GreedyDwarf\obj\Debug\_02_GreedyDwarf.pdb

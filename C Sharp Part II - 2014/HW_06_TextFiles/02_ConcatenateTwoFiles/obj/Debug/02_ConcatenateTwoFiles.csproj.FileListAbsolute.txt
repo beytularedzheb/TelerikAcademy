@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\02_ConcatenateTwoFiles\bin\Debug\02_ConcatenateTwoFiles.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\02_ConcatenateTwoFiles\bin\Debug\02_ConcatenateTwoFiles.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\02_ConcatenateTwoFiles\bin\Debug\02_ConcatenateTwoFiles.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\02_ConcatenateTwoFiles\obj\Debug\02_ConcatenateTwoFiles.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\02_ConcatenateTwoFiles\obj\Debug\02_ConcatenateTwoFiles.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_06_TextFiles\02_ConcatenateTwoFiles\obj\Debug\02_ConcatenateTwoFiles.pdb

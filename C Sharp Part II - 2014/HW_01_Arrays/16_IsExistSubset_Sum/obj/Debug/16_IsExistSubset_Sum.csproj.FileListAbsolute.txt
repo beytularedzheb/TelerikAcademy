@@ -1,0 +1,6 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\16_IsExistSubset_Sum\bin\Debug\16_IsExistSubset_Sum.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\16_IsExistSubset_Sum\bin\Debug\16_IsExistSubset_Sum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\16_IsExistSubset_Sum\bin\Debug\16_IsExistSubset_Sum.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\16_IsExistSubset_Sum\obj\Debug\16_IsExistSubset_Sum.csprojResolveAssemblyReference.cache
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\16_IsExistSubset_Sum\obj\Debug\16_IsExistSubset_Sum.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_01_Arrays\16_IsExistSubset_Sum\obj\Debug\16_IsExistSubset_Sum.pdb

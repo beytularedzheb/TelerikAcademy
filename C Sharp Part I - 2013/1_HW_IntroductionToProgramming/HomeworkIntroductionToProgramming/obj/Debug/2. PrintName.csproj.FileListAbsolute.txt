@@ -1,0 +1,6 @@
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\HomeworkIntroductionToProgramming\bin\Debug\HomeworkIntroductionToProgramming.exe.config
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\HomeworkIntroductionToProgramming\bin\Debug\HomeworkIntroductionToProgramming.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\HomeworkIntroductionToProgramming\bin\Debug\HomeworkIntroductionToProgramming.pdb
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\HomeworkIntroductionToProgramming\obj\Debug\2. PrintName.csprojResolveAssemblyReference.cache
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\HomeworkIntroductionToProgramming\obj\Debug\HomeworkIntroductionToProgramming.exe
+c:\users\thesilent\documents\visual studio 2012\Projects\HomeworkIntroductionToProgramming\HomeworkIntroductionToProgramming\obj\Debug\HomeworkIntroductionToProgramming.pdb

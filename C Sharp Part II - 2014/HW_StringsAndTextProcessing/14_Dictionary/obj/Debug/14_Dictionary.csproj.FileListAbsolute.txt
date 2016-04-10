@@ -1,0 +1,5 @@
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\14_Dictionary\bin\Debug\14_Dictionary.exe.config
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\14_Dictionary\bin\Debug\14_Dictionary.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\14_Dictionary\bin\Debug\14_Dictionary.pdb
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\14_Dictionary\obj\Debug\14_Dictionary.exe
+C:\Users\Beytula\documents\visual studio 2013\Projects\HW_StringsAndTextProcessing\14_Dictionary\obj\Debug\14_Dictionary.pdb
